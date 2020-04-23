@@ -1,0 +1,6 @@
+<map id="bc_spi_is_ready" name="bc_spi_is_ready">
+<area shape="rect" id="node2" href="$group__bc__ls013b7dh03.html#gaed0efae20596f6f9112375ab9fd20d15" title="Check if lcd is ready for commands. " alt="" coords="171,5,343,32"/>
+<area shape="rect" id="node5" href="$group__bc__ls013b7dh03.html#ga4b58175d121103a06d625050ec3a5226" title="Lcd update, send data. " alt="" coords="176,56,339,83"/>
+<area shape="rect" id="node3" href="$group__bc__ls013b7dh03.html#ga83e30d359151dd006ac87892ac8a00c2" title="Get Lcd driver. " alt="" coords="392,23,533,65"/>
+<area shape="rect" id="node4" href="$group__bc__module__lcd.html#ga5c58b9b82d5dfd4ae3c263c223ed5181" title="Initialize lcd. " alt="" coords="581,31,715,57"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="bc_soil_sensor_get_temperature_celsius" name="bc_soil_sensor_get_temperature_celsius">
+<area shape="rect" id="node2" href="$group__bc__soil__sensor.html#ga7de2d587da7c5a8714cbe035f6cc04f1" title="Get measured temperature as raw value. " alt="" coords="201,5,335,46"/>
+<area shape="rect" id="node3" href="$group__bc__soil__sensor.html#gab80adefdd0eda2671d38ff2aef9476f2" title="Get device index by its device address. " alt="" coords="384,5,563,46"/>
+</map>

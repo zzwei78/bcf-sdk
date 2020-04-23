@@ -1,0 +1,38 @@
+<map id="bc_tag_lux_meter_init" name="bc_tag_lux_meter_init">
+<area shape="rect" id="node2" href="$group__bc__opt3001.html#ga3db4ea45d7c7b4cb5e63fda04802e1ba" title="Initialize OPT3001 driver. " alt="" coords="203,515,317,541"/>
+<area shape="rect" id="node3" href="$group__bc__scheduler.html#gac6e2fa9155567fb1f32a8b8b563e2f30" title="Register task in scheduler. " alt="" coords="365,489,515,516"/>
+<area shape="rect" id="node4" href="$group__bc__i2c.html#ga8f29242288303f0328c6514068e516fa" title="Initialize I2C channel. " alt="" coords="398,540,482,567"/>
+<area shape="rect" id="node5" href="$group__bc__i2c.html#ga278d6844673b8460aecade7e4830b854" title="Set I2C channel speed. " alt="" coords="591,213,718,240"/>
+<area shape="rect" id="node12" href="$group__bc__module__sensor.html#ga1079c2c19c21e89aa17cc1078737eb4e" title="Initialize Sensor Module. " alt="" coords="809,544,964,571"/>
+<area shape="rect" id="node25" href="$group__bc__module__sensor.html#gaebcf126e49db2659e153bfe11c5a2b52" title="Get Sensor Module revision. " alt="" coords="809,457,965,498"/>
+<area shape="rect" id="node30" href="$group__bc__module__sensor.html#ga14043d8f0e22293928b3117b857f10b8" title="Set VDD On / Off. " alt="" coords="563,515,747,541"/>
+<area shape="rect" id="node31" href="$group__bc__module__sensor.html#gafe9652b30cde2e0f524057efe47dc9e9" title="Set pull of Sensor Module channel. " alt="" coords="795,645,978,672"/>
+<area shape="rect" id="node33" href="$group__bc__tick.html#ga5291d354b48d9599d185969d53f2bf8a" title="Get absolute timestamp since start of program. " alt="" coords="1078,848,1167,875"/>
+<area shape="rect" id="node34" href="$group__bc__ds28e17.html#ga9111c4df0d96cbb920fb9cf5de06073c" title="Initialize DS28E17. " alt="" coords="597,704,713,731"/>
+<area shape="rect" id="node6" href="$group__bc__ds28e17.html#ga5ac9b2a6c35ad5c8fe4ea27f182ef162" title="Set I2C speed. " alt="" coords="807,148,966,175"/>
+<area shape="rect" id="node7" href="$group__bc__onewire.html#ga623506c771730daa8446ca51170f67ed" title="Start transaction, enable pll and run timer. " alt="" coords="1043,57,1202,98"/>
+<area shape="rect" id="node8" href="$group__bc__onewire.html#ga00b9f05b4be593fd343a605716a56508" title="Reset the 1&#45;Wire bus and return the presence of any device. " alt="" coords="1061,123,1185,149"/>
+<area shape="rect" id="node9" href="$group__bc__onewire.html#gac73c292d91f35c8c4d3c1a7be1dfc685" title="Stop transaction. " alt="" coords="1027,173,1218,200"/>
+<area shape="rect" id="node10" href="$group__bc__onewire.html#gaeb2baea72df8586c92601488237bc99e" title="Select device. " alt="" coords="1057,224,1188,251"/>
+<area shape="rect" id="node11" href="$group__bc__onewire.html#ga4d0d2814df622e67fde9ca3de5e981f7" title="Select device. " alt="" coords="1061,5,1184,32"/>
+<area shape="rect" id="node13" href="$group__bc__tca9534a.html#gab392a5644d1d4ccab47c95f04b4786cf" title="Initialize TCA9534A. " alt="" coords="1063,325,1183,352"/>
+<area shape="rect" id="node17" href="$group__bc__tca9534a.html#ga4707e216045466f49d56e2fe58f9ec04" title="Write state to all pins. " alt="" coords="1267,544,1427,571"/>
+<area shape="rect" id="node21" href="$group__bc__tca9534a.html#ga3031df848b97bb621de3a2268af49b4e" title="Set direction of all pins. " alt="" coords="1271,435,1422,477"/>
+<area shape="rect" id="node22" href="$group__bc__gpio.html#ga06db16c5cd7f6ffff7e297970814221d" title="Initialize GPIO channel. " alt="" coords="1077,696,1168,723"/>
+<area shape="rect" id="node14" href="$group__bc__i2c.html#gaa1e6123c2b68672fb6c591d4c73d4e0d" title="Memory read 1 byte from I2C channel. " alt="" coords="1477,300,1643,327"/>
+<area shape="rect" id="node15" href="$group__bc__i2c.html#gac2f33729bf9c4751342a88bb917ee9fc" title="Memory read from I2C channel. " alt="" coords="1695,300,1841,327"/>
+<area shape="rect" id="node16" href="$group__bc__ds28e17.html#ga159050bb4986621d5d289433c987b5c0" title="Memory read from I2C. " alt="" coords="1892,300,2071,327"/>
+<area shape="rect" id="node18" href="$group__bc__i2c.html#ga313a279d51a755361b0d57eea6bcc226" title="Memory write 1 byte to I2C channel. " alt="" coords="1475,493,1645,520"/>
+<area shape="rect" id="node19" href="$group__bc__i2c.html#ga09c340b2ac57f2c8ed358dab05cf9c0b" title="Memory write to I2C channel. " alt="" coords="1693,493,1843,520"/>
+<area shape="rect" id="node20" href="$group__bc__ds28e17.html#gae1baafe53feb279c3556a122782431ec" title="Memory write to I2C. " alt="" coords="1891,493,2072,520"/>
+<area shape="rect" id="node23" href="$group__bc__irq.html#ga83398e8b1c443f7bf1b1980959d3cc63" title="Disable interrupt requests globally (call can be nested) " alt="" coords="1294,747,1399,773"/>
+<area shape="rect" id="node24" href="$group__bc__irq.html#ga6bd1e6c1589c97558d14e8f3d648e656" title="Enable interrupt requests globally (call can be nested) " alt="" coords="1295,797,1398,824"/>
+<area shape="rect" id="node26" href="$group__bc__tca9534a.html#gadc9fba4363f774f26ee745e92f7366a8" title="Set pin direction. " alt="" coords="1050,377,1195,418"/>
+<area shape="rect" id="node27" href="$group__bc__tca9534a.html#ga2d29bd741393dcbb0b11a1f76d60371d" title="Write pin state. " alt="" coords="1045,493,1200,520"/>
+<area shape="rect" id="node28" href="$group__bc__tca9534a.html#gabcdc7715028dfbc384749a818d3bbe5d" title="Read pin state. " alt="" coords="1047,275,1199,301"/>
+<area shape="rect" id="node29" href="$group__bc__tca9534a.html#gafae0e31f827bddb3e47958a3656ea32b" title="Read state of all pins. " alt="" coords="1268,275,1425,301"/>
+<area shape="rect" id="node32" href="$group__bc__gpio.html#ga39141debc333424326e1d448f3f81b6d" title="Set pull&#45;up/pull&#45;down configuration for GPIO channel. " alt="" coords="1063,747,1182,773"/>
+<area shape="rect" id="node35" href="$group__bc__onewire.html#ga60666697964ce9ea0bf87ac407a1d63c" title="Initialize 1&#45;Wire. " alt="" coords="831,704,943,731"/>
+<area shape="rect" id="node37" href="$group__bc__onewire.html#ga643f9a56cfb8b64a6d46a193a67b8331" title="Enable call sleep mode for all ds28e17 after transaction. " alt="" coords="799,755,975,797"/>
+<area shape="rect" id="node36" href="$group__bc__gpio.html#ga63a3ad86dfef88c7c940a2a34945d853" title="Set mode of operation for GPIO channel. " alt="" coords="1057,797,1188,824"/>
+</map>

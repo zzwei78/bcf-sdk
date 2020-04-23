@@ -1,0 +1,15 @@
+<map id="bc_module_sensor_set_vdd" name="bc_module_sensor_set_vdd">
+<area shape="rect" id="node2" href="$group__bc__module__sensor.html#gaebcf126e49db2659e153bfe11c5a2b52" title="Get Sensor Module revision. " alt="" coords="238,82,394,123"/>
+<area shape="rect" id="node9" href="$group__bc__tca9534a.html#ga4707e216045466f49d56e2fe58f9ec04" title="Write state to all pins. " alt="" coords="645,123,805,149"/>
+<area shape="rect" id="node3" href="$group__bc__tca9534a.html#gadc9fba4363f774f26ee745e92f7366a8" title="Set pin direction. " alt="" coords="447,57,593,98"/>
+<area shape="rect" id="node8" href="$group__bc__tca9534a.html#ga2d29bd741393dcbb0b11a1f76d60371d" title="Write pin state. " alt="" coords="443,123,597,149"/>
+<area shape="rect" id="node10" href="$group__bc__tca9534a.html#gabcdc7715028dfbc384749a818d3bbe5d" title="Read pin state. " alt="" coords="444,5,596,32"/>
+<area shape="rect" id="node4" href="$group__bc__tca9534a.html#ga3031df848b97bb621de3a2268af49b4e" title="Set direction of all pins. " alt="" coords="650,57,801,98"/>
+<area shape="rect" id="node5" href="$group__bc__i2c.html#ga313a279d51a755361b0d57eea6bcc226" title="Memory write 1 byte to I2C channel. " alt="" coords="853,93,1024,120"/>
+<area shape="rect" id="node6" href="$group__bc__i2c.html#ga09c340b2ac57f2c8ed358dab05cf9c0b" title="Memory write to I2C channel. " alt="" coords="1072,93,1221,120"/>
+<area shape="rect" id="node7" href="$group__bc__ds28e17.html#gae1baafe53feb279c3556a122782431ec" title="Memory write to I2C. " alt="" coords="1269,93,1451,120"/>
+<area shape="rect" id="node11" href="$group__bc__tca9534a.html#gafae0e31f827bddb3e47958a3656ea32b" title="Read state of all pins. " alt="" coords="647,5,804,32"/>
+<area shape="rect" id="node12" href="$group__bc__i2c.html#gaa1e6123c2b68672fb6c591d4c73d4e0d" title="Memory read 1 byte from I2C channel. " alt="" coords="855,5,1022,32"/>
+<area shape="rect" id="node13" href="$group__bc__i2c.html#gac2f33729bf9c4751342a88bb917ee9fc" title="Memory read from I2C channel. " alt="" coords="1073,5,1220,32"/>
+<area shape="rect" id="node14" href="$group__bc__ds28e17.html#ga159050bb4986621d5d289433c987b5c0" title="Memory read from I2C. " alt="" coords="1271,5,1449,32"/>
+</map>

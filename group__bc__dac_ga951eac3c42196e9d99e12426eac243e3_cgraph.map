@@ -1,0 +1,10 @@
+<map id="bc_dac_async_run" name="bc_dac_async_run">
+<area shape="rect" id="node2" href="$group__bc__dma.html#gaf4e59e6f5f06125b5da2840e86242bd8" title="Initialize DMA. " alt="" coords="229,56,321,83"/>
+<area shape="rect" id="node5" href="$group__bc__dma.html#ga6a502635c436566741def85e1edd17e0" title="Configure DMA channel. " alt="" coords="193,107,356,133"/>
+<area shape="rect" id="node8" href="$group__bc__dma.html#gab8e3711e5a8418125e2e926e651925dd" title="Set callback function. " alt="" coords="184,157,365,184"/>
+<area shape="rect" id="node9" href="$group__bc__dma.html#gaf7ad146ca3fbd3d0ba6a2cf21cfd89a1" title="Start DMA channel. " alt="" coords="202,208,347,235"/>
+<area shape="rect" id="node3" href="$group__bc__fifo.html#gaa7eed98919b150b8452698e5bc31ba1d" title="Initialize FIFO buffer. " alt="" coords="445,5,531,32"/>
+<area shape="rect" id="node4" href="$group__bc__scheduler.html#gac6e2fa9155567fb1f32a8b8b563e2f30" title="Register task in scheduler. " alt="" coords="413,56,563,83"/>
+<area shape="rect" id="node6" href="$group__bc__irq.html#ga83398e8b1c443f7bf1b1980959d3cc63" title="Disable interrupt requests globally (call can be nested) " alt="" coords="435,107,541,133"/>
+<area shape="rect" id="node7" href="$group__bc__irq.html#ga6bd1e6c1589c97558d14e8f3d648e656" title="Enable interrupt requests globally (call can be nested) " alt="" coords="437,157,539,184"/>
+</map>

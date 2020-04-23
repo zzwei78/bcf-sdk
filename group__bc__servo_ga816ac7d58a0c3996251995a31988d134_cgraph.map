@@ -1,0 +1,4 @@
+<map id="bc_servo_init" name="bc_servo_init">
+<area shape="rect" id="node2" href="$group__bc__pwm.html#ga47810bd3085439c6f231c53c69cb909b" title="Initialize PWM timers based on GPIO pin. " alt="" coords="153,5,247,32"/>
+<area shape="rect" id="node3" href="$group__bc__pwm.html#gae9ea2b612463205d22467c5eb736dcad" title="Reconfigure TIM3. " alt="" coords="297,31,453,57"/>
+</map>

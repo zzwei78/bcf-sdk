@@ -1,0 +1,6 @@
+<map id="bc_sps30_measure" name="bc_sps30_measure">
+<area shape="rect" id="node2" href="$group__bc__tick.html#ga5291d354b48d9599d185969d53f2bf8a" title="Get absolute timestamp since start of program. " alt="" coords="226,31,315,57"/>
+<area shape="rect" id="node5" href="$group__bc__scheduler.html#ga46c874e6f1b363cf6851cfa8f837c398" title="Schedule specified task for immediate execution. " alt="" coords="190,81,351,108"/>
+<area shape="rect" id="node3" href="$group__bc__irq.html#ga83398e8b1c443f7bf1b1980959d3cc63" title="Disable interrupt requests globally (call can be nested) " alt="" coords="401,5,506,32"/>
+<area shape="rect" id="node4" href="$group__bc__irq.html#ga6bd1e6c1589c97558d14e8f3d648e656" title="Enable interrupt requests globally (call can be nested) " alt="" coords="402,56,505,83"/>
+</map>

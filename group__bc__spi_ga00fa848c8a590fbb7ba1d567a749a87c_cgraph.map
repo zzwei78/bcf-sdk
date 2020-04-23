@@ -1,0 +1,9 @@
+<map id="bc_spi_init" name="bc_spi_init">
+<area shape="rect" id="node2" href="$group__bc__spi.html#ga7c36403b14b7179856d1d960d0396db8" title="Set SPI communication speed. " alt="" coords="166,5,293,32"/>
+<area shape="rect" id="node3" href="$group__bc__spi.html#ga413301413b99ec784eb724008235a1b8" title="Set SPI mode of operation. " alt="" coords="167,56,291,83"/>
+<area shape="rect" id="node4" href="$group__bc__dma.html#gaf4e59e6f5f06125b5da2840e86242bd8" title="Initialize DMA. " alt="" coords="183,107,275,133"/>
+<area shape="rect" id="node6" href="$group__bc__scheduler.html#gac6e2fa9155567fb1f32a8b8b563e2f30" title="Register task in scheduler. " alt="" coords="368,157,517,184"/>
+<area shape="rect" id="node7" href="$group__bc__timer.html#ga878fa66377415b0e9436c54369637148" title="Initialize timer. " alt="" coords="181,208,277,235"/>
+<area shape="rect" id="node8" href="$group__bc__dma.html#gab8e3711e5a8418125e2e926e651925dd" title="Set callback function. " alt="" coords="139,259,320,285"/>
+<area shape="rect" id="node5" href="$group__bc__fifo.html#gaa7eed98919b150b8452698e5bc31ba1d" title="Initialize FIFO buffer. " alt="" coords="400,107,485,133"/>
+</map>

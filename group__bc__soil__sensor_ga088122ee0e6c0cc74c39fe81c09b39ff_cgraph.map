@@ -1,0 +1,5 @@
+<map id="bc_soil_sensor_get_temperature_fahrenheit" name="bc_soil_sensor_get_temperature_fahrenheit">
+<area shape="rect" id="node2" href="$group__bc__soil__sensor.html#ga6b292f6868f364e4b994778ded7e7a2e" title="Get measured temperature in degrees of Celsius. " alt="" coords="216,5,363,46"/>
+<area shape="rect" id="node3" href="$group__bc__soil__sensor.html#ga7de2d587da7c5a8714cbe035f6cc04f1" title="Get measured temperature as raw value. " alt="" coords="411,5,546,46"/>
+<area shape="rect" id="node4" href="$group__bc__soil__sensor.html#gab80adefdd0eda2671d38ff2aef9476f2" title="Get device index by its device address. " alt="" coords="595,5,773,46"/>
+</map>

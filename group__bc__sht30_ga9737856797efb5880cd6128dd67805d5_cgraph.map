@@ -1,0 +1,4 @@
+<map id="bc_sht30_get_temperature_fahrenheit" name="bc_sht30_get_temperature_fahrenheit">
+<area shape="rect" id="node2" href="$group__bc__sht30.html#gac0e463883cd1914c87e003ee50245458" title="Get measured temperature in degrees of Celsius. " alt="" coords="229,5,405,46"/>
+<area shape="rect" id="node3" href="$group__bc__sht30.html#ga2cc5e3ffec206f1b84dc4d022ea3e89b" title="Get measured temperature as raw value. " alt="" coords="454,12,658,39"/>
+</map>

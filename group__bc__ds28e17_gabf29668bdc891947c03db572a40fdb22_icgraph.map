@@ -1,0 +1,4 @@
+<map id="bc_ds28e17_read" name="bc_ds28e17_read">
+<area shape="rect" id="node2" href="$group__bc__i2c.html#ga05fa9b2c1e510b1501fc4343d73e379b" title="Read from I2C channel. " alt="" coords="179,5,271,32"/>
+<area shape="rect" id="node3" href="$group__bc__zssc3123.html#gaac78e73c392e6cda16cf9b0c48ec9bda" title="Write to eeprom, work only with command mode. " alt="" coords="320,5,501,32"/>
+</map>

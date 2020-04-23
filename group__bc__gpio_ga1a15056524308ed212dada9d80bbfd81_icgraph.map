@@ -1,0 +1,10 @@
+<map id="bc_gpio_set_output" name="bc_gpio_set_output">
+<area shape="rect" id="node2" href="$group__bc__esp8266.html#ga5fe8e620fe31fcdafa67b46e446b39b4" title="Initialize ESP8266. " alt="" coords="213,5,329,32"/>
+<area shape="rect" id="node3" href="$group__bc__hc__sr04.html#ga15c3d435fa7538a6ca4a043de1897ec7" title="Start measurement manually. " alt="" coords="197,56,344,83"/>
+<area shape="rect" id="node5" href="$group__bc__module__power.html#gad442b2608e42830cc69e894ee08cedbf" title="Set relay state. " alt="" coords="189,107,352,149"/>
+<area shape="rect" id="node6" href="$group__bc__module__sensor.html#ga30e92a07a29c13080f172ccd97760773" title="Set output state of Sensor Module channel. " alt="" coords="193,173,349,214"/>
+<area shape="rect" id="node7" href="$group__bc__td1207r.html#ga1b5a8cc467f2285e7894a9397be094dc" title="Initialize TD1207R. " alt="" coords="215,239,326,265"/>
+<area shape="rect" id="node9" href="$group__bc__wssfm10r1at.html#ga59a1f344c6a04ca7feaed904f5e578aa" title="Initialize WSSFM10R1AT. " alt="" coords="199,289,342,316"/>
+<area shape="rect" id="node4" href="$group__bc__hc__sr04.html#gae3474f228cb54344795860617db1dc66" title="Set measurement interval. " alt="" coords="400,49,560,90"/>
+<area shape="rect" id="node8" href="$group__bc__module__sigfox.html#ga85ecac7b2744ca0180323c5448eafe0d" title="Initialize HARDWARIO SigFox Module. " alt="" coords="405,264,555,291"/>
+</map>

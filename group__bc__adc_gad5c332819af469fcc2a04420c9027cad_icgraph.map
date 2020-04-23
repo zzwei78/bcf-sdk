@@ -1,0 +1,4 @@
+<map id="bc_adc_calibration" name="bc_adc_calibration">
+<area shape="rect" id="node2" href="$group__bc__adc.html#gab33b4dbe229321f3ee17d723282fe302" title="Initialize ADC converter. " alt="" coords="184,5,272,32"/>
+<area shape="rect" id="node3" href="$group__bc__analog__sensor.html#gae4381dff46be550d1c2a30f5172e8b87" title="Initialize generic analog sensor. " alt="" coords="321,5,471,32"/>
+</map>

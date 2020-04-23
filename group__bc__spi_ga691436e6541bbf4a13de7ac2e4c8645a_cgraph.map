@@ -1,0 +1,6 @@
+<map id="bc_spi_transfer" name="bc_spi_transfer">
+<area shape="rect" id="node2" href="$group__bc__timer.html#ga317db8385bf21fcfd02fea4ff9e0eedb" title="Start timer. " alt="" coords="169,5,274,32"/>
+<area shape="rect" id="node3" href="$group__bc__timer.html#gaa8f918df996e2fe8e204987c5fcc17db" title="Relative delay. " alt="" coords="166,56,277,83"/>
+<area shape="rect" id="node5" href="$group__bc__timer.html#ga9e03a542d4a1be5e551f7db010368192" title="Stop timer. " alt="" coords="169,107,273,133"/>
+<area shape="rect" id="node4" href="$group__bc__timer.html#ga65fa2d94790c292adfef2b870e72caa0" title="Get actual tick of timer. " alt="" coords="326,56,511,83"/>
+</map>

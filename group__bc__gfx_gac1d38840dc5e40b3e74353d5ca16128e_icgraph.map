@@ -1,0 +1,6 @@
+<map id="bc_gfx_draw_char" name="bc_gfx_draw_char">
+<area shape="rect" id="node2" href="$group__bc__gfx.html#gae7c3bf028c5c951c5cc33bdfc3a31bd8" title="Display draw string. " alt="" coords="202,35,337,61"/>
+<area shape="rect" id="node5" href="$group__bc__module__lcd.html#ga8e54eb4c00346b5b3219ebe8b53bdaf8" title="Lcd draw char. " alt="" coords="181,85,357,112"/>
+<area shape="rect" id="node3" href="$group__bc__gfx.html#gab932d8d501e215e8231b4b46db5e3296" title="Display string. " alt="" coords="429,5,526,32"/>
+<area shape="rect" id="node4" href="$group__bc__module__lcd.html#gae430a5005ff87e6daa3dd4c085ac39c3" title="Lcd draw string. " alt="" coords="405,57,549,98"/>
+</map>

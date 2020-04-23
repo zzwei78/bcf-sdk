@@ -1,0 +1,20 @@
+<map id="bc_gfx_draw_pixel" name="bc_gfx_draw_pixel">
+<area shape="rect" id="node2" href="$group__bc__gfx.html#gac1d38840dc5e40b3e74353d5ca16128e" title="Display draw char. " alt="" coords="209,85,337,112"/>
+<area shape="rect" id="node7" href="$group__bc__gfx.html#ga5f4df250c5c3ca61142fffb1db00947b" title="Lcd draw circle, using Midpoint circle algorithm. " alt="" coords="206,140,341,167"/>
+<area shape="rect" id="node9" href="$group__bc__gfx.html#ga0faa95dba8366bd4fb6a2b33cc5cee2a" title="Display draw fill rectangle. " alt="" coords="185,191,361,217"/>
+<area shape="rect" id="node10" href="$group__bc__gfx.html#gaafd4526d996a5a728e9c676261c66abe" title="Display draw fill rectangle with a dithering pattern defined in the color parameter. " alt="" coords="185,242,361,283"/>
+<area shape="rect" id="node11" href="$group__bc__gfx.html#ga126baec9f65e5c98752dbc42fa322c3c" title="Display draw line. " alt="" coords="212,308,335,335"/>
+<area shape="rect" id="node17" href="$group__bc__gfx.html#ga5f3d078f25840a31ac93de3c9fc3e557" title="Lcd draw round corner, using Midpoint circle algorithm. " alt="" coords="184,359,363,385"/>
+<area shape="rect" id="node18" href="$group__bc__module__lcd.html#ga4deacf537bee78c3c4ccb234870e41df" title="Lcd draw image. " alt="" coords="201,410,345,451"/>
+<area shape="rect" id="node19" href="$group__bc__module__lcd.html#ga488a0dce34be7131f2f5ab94734d8ac7" title="Lcd draw pixel. " alt="" coords="201,475,345,517"/>
+<area shape="rect" id="node3" href="$group__bc__gfx.html#gae7c3bf028c5c951c5cc33bdfc3a31bd8" title="Display draw string. " alt="" coords="431,35,566,61"/>
+<area shape="rect" id="node6" href="$group__bc__module__lcd.html#ga8e54eb4c00346b5b3219ebe8b53bdaf8" title="Lcd draw char. " alt="" coords="411,85,587,112"/>
+<area shape="rect" id="node4" href="$group__bc__gfx.html#gab932d8d501e215e8231b4b46db5e3296" title="Display string. " alt="" coords="658,5,755,32"/>
+<area shape="rect" id="node5" href="$group__bc__module__lcd.html#gae430a5005ff87e6daa3dd4c085ac39c3" title="Lcd draw string. " alt="" coords="635,57,779,98"/>
+<area shape="rect" id="node8" href="$group__bc__module__lcd.html#gae1c17319c329ae90eca8be7223f63832" title="Lcd draw circle. " alt="" coords="427,137,571,178"/>
+<area shape="rect" id="node12" href="$group__bc__gfx.html#ga5f595acae31ff5ac570e7ad495b5691d" title="Display draw rectangle. " alt="" coords="421,228,577,255"/>
+<area shape="rect" id="node14" href="$group__bc__gfx.html#ga74535d8df9070a00015fb056074ff461" title="Lcd draw fill circle, using Midpoint circle algorithm. " alt="" coords="421,279,576,305"/>
+<area shape="rect" id="node15" href="$group__bc__gfx.html#ga54c7e97b7806ee01782d0bc6447aaf4e" title="Lcd draw fill round corner, using Midpoint circle algorithm. " alt="" coords="421,330,576,371"/>
+<area shape="rect" id="node16" href="$group__bc__module__lcd.html#ga9eb9b7c644a7cdec4be4e97fffb6be2a" title="Lcd draw line. " alt="" coords="413,396,584,423"/>
+<area shape="rect" id="node13" href="$group__bc__module__lcd.html#ga0e27a51357b8d4027e43c19ae671be6a" title="Lcd draw rectangle. " alt="" coords="635,221,779,262"/>
+</map>

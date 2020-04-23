@@ -1,0 +1,5 @@
+<map id="bc_sc16is740_available" name="bc_sc16is740_available">
+<area shape="rect" id="node2" href="$group__bc__module__rs485.html#gafc3576200a76d02f27487fbfa40a6a3c" title="Get number of received bytes. " alt="" coords="214,5,397,32"/>
+<area shape="rect" id="node3" href="$group__bc__sc16is740.html#ga45fe46c3432936b825689b55bd1ec85b" title="Read. " alt="" coords="238,56,373,83"/>
+<area shape="rect" id="node4" href="$group__bc__module__rs485.html#gad3a0b2ec7534a14b0e805c1e77a8e40d" title="Read the received data. " alt="" coords="446,56,602,83"/>
+</map>

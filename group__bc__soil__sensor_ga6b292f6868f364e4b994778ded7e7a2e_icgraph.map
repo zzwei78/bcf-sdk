@@ -1,0 +1,4 @@
+<map id="bc_soil_sensor_get_temperature_celsius" name="bc_soil_sensor_get_temperature_celsius">
+<area shape="rect" id="node2" href="$group__bc__soil__sensor.html#ga088122ee0e6c0cc74c39fe81c09b39ff" title="Get measured temperature in degrees of Fahrenheit. " alt="" coords="200,5,363,46"/>
+<area shape="rect" id="node3" href="$group__bc__soil__sensor.html#gaf1ab6647384397fd825b4f3c162d8ff2" title="Get measured temperature in kelvin. " alt="" coords="212,70,351,111"/>
+</map>

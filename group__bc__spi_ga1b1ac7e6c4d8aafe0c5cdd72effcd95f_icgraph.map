@@ -1,0 +1,5 @@
+<map id="bc_spi_async_transfer" name="bc_spi_async_transfer">
+<area shape="rect" id="node2" href="$group__bc__ls013b7dh03.html#ga4b58175d121103a06d625050ec3a5226" title="Lcd update, send data. " alt="" coords="208,12,371,39"/>
+<area shape="rect" id="node3" href="$group__bc__ls013b7dh03.html#ga83e30d359151dd006ac87892ac8a00c2" title="Get Lcd driver. " alt="" coords="419,5,560,46"/>
+<area shape="rect" id="node4" href="$group__bc__module__lcd.html#ga5c58b9b82d5dfd4ae3c263c223ed5181" title="Initialize lcd. " alt="" coords="608,12,741,39"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="bc_i2c_memory_write_8b" name="bc_i2c_memory_write_8b">
+<area shape="rect" id="node2" href="$group__bc__lis2dh12.html#gabdb52865d27aca4cd3f0ca31133f4187" title="Enable or disable accelerometer threshold alarm. " alt="" coords="239,5,393,32"/>
+<area shape="rect" id="node3" href="$group__bc__module__rs485.html#ga1c89bbb9306760443f0d9dac6b7ca180" title="Deinitialize RS&#45;485 Module. " alt="" coords="235,56,397,83"/>
+<area shape="rect" id="node4" href="$group__bc__module__rs485.html#gac3a22658a946e7fdd920557884f51d3f" title="Initialize RS&#45;485 Module. " alt="" coords="1561,157,1709,184"/>
+<area shape="rect" id="node5" href="$group__bc__sc16is740.html#ga088ffb060685d4af0025f5630891bf65" title="SC16IS740 instance. " alt="" coords="1358,259,1485,285"/>
+<area shape="rect" id="node6" href="$group__bc__sc16is740.html#ga5099c82a8455728e380ab436719d45da" title="Reset FIFO. " alt="" coords="456,107,619,133"/>
+<area shape="rect" id="node7" href="$group__bc__sc16is740.html#ga83b0d7316a667551cb750c220142cf06" title="Set baudrate. " alt="" coords="224,263,408,289"/>
+<area shape="rect" id="node9" href="$group__bc__tca9534a.html#ga3031df848b97bb621de3a2268af49b4e" title="Set direction of all pins. " alt="" coords="241,825,391,866"/>
+<area shape="rect" id="node44" href="$group__bc__tca9534a.html#ga4707e216045466f49d56e2fe58f9ec04" title="Write state to all pins. " alt="" coords="236,773,396,800"/>
+<area shape="rect" id="node8" href="$group__bc__module__rs485.html#ga0b508d820f7ebb4a855ef59f6660b078" title="Set baudrate. " alt="" coords="463,259,612,301"/>
+<area shape="rect" id="node10" href="$group__bc__module__gps.html#gacdd192df1a6277183e152358b070a6aa" title="Initialize HARDWARIO GPS Module. " alt="" coords="1566,1272,1703,1299"/>
+<area shape="rect" id="node11" href="$group__bc__module__sensor.html#ga1079c2c19c21e89aa17cc1078737eb4e" title="Initialize Sensor Module. " alt="" coords="887,933,1041,960"/>
+<area shape="rect" id="node39" href="$group__bc__tca9534a.html#gadc9fba4363f774f26ee745e92f7366a8" title="Set pin direction. " alt="" coords="465,766,610,807"/>
+<area shape="rect" id="node12" href="$group__bc__i2c.html#ga8f29242288303f0328c6514068e516fa" title="Initialize I2C channel. " alt="" coords="1154,816,1238,843"/>
+<area shape="rect" id="node38" href="$group__bc__pulse__counter.html#ga6d78b1c52014b693c271c39d17516694" title="Initialize pulse counter. " alt="" coords="1122,765,1270,792"/>
+<area shape="rect" id="node13" href="$group__bc__atsha204.html#gaf84d4883b887c51ac16f459167e04cd6" title="Initialize ATSHA204 driver. " alt="" coords="1361,715,1481,741"/>
+<area shape="rect" id="node15" href="$group__bc__cy8cmbr3102.html#ga976c1e7933aba1f55be114a9e368417a" title="Initialize CY8CMBR3102. " alt="" coords="1349,765,1494,792"/>
+<area shape="rect" id="node16" href="$group__bc__hdc2080.html#gabac119de881d5c96af19f32f2f7927ce" title="Initialize HDC2080. " alt="" coords="1363,309,1479,336"/>
+<area shape="rect" id="node18" href="$group__bc__hts221.html#ga6fa1b3193fe2b98f5edf0066b9a4bc7a" title="Initialize HTS221. " alt="" coords="1368,360,1475,387"/>
+<area shape="rect" id="node19" href="$group__bc__lis2dh12.html#ga4e706e214a03b568e43b923931774160" title="Initialize LIS2DH12. " alt="" coords="1364,917,1479,944"/>
+<area shape="rect" id="node20" href="$group__bc__module__infra__grid.html#gadfc9b5742966ca4896db01d4b83a5f2e" title="Initialize Infra Grid Module. " alt="" coords="1337,968,1506,995"/>
+<area shape="rect" id="node21" href="$group__bc__mpl3115a2.html#ga634445e187612f04ed034c3f95ef006e" title="Initialize MPL3115A2. " alt="" coords="1356,867,1487,893"/>
+<area shape="rect" id="node24" href="$group__bc__opt3001.html#ga3db4ea45d7c7b4cb5e63fda04802e1ba" title="Initialize OPT3001 driver. " alt="" coords="1365,1019,1478,1045"/>
+<area shape="rect" id="node26" href="$group__bc__sam__m8q.html#ga27874c5c6b8bc0eaf16545263f0ac15f" title="Initialize SAM&#45;M8Q module driver. " alt="" coords="1359,1171,1483,1197"/>
+<area shape="rect" id="node27" href="$group__bc__sgp30.html#ga28a7279895589924c915bc4a6c018a30" title="Initialize SGP30. " alt="" coords="1370,1069,1473,1096"/>
+<area shape="rect" id="node29" href="$group__bc__sgpc3.html#gabcd18260679d87adef3ad00e9e0af5cc" title="Initialize SGPC3. " alt="" coords="1370,1120,1473,1147"/>
+<area shape="rect" id="node30" href="$group__bc__sht20.html#gad12a0ad3e38bbb1ed81f0087180ac3af" title="Initialize SHT20. " alt="" coords="1372,613,1471,640"/>
+<area shape="rect" id="node31" href="$group__bc__sht30.html#ga1ba8cd4b03dd6de2fa5a78e7ded48e71" title="Initialize SHT30. " alt="" coords="1372,411,1471,437"/>
+<area shape="rect" id="node32" href="$group__bc__sps30.html#ga40dabc728d1ecde6baf1edc3d9b06e19" title="Initialize SPS30. " alt="" coords="1370,461,1473,488"/>
+<area shape="rect" id="node33" href="$group__bc__ssd1306.html#ga6b3714dbb27136b26b74747951bb723a" title="Initialize lcd driver. " alt="" coords="1363,512,1479,539"/>
+<area shape="rect" id="node34" href="$group__bc__tag__nfc.html#ga6f6000d04b810a211ed29dd83fc49b34" title="Initialize NFC Tag. " alt="" coords="1366,563,1477,589"/>
+<area shape="rect" id="node35" href="$group__bc__tca9534a.html#gab392a5644d1d4ccab47c95f04b4786cf" title="Initialize TCA9534A. " alt="" coords="1361,1221,1481,1248"/>
+<area shape="rect" id="node36" href="$group__bc__tmp112.html#gafa5c6541860450a84023c16293d977ac" title="Initialize TMP112. " alt="" coords="1366,816,1477,843"/>
+<area shape="rect" id="node37" href="$group__bc__zssc3123.html#gaff24cd1cb2ad8861832f8972e1e738ae" title="Initialize ZSSC3123. " alt="" coords="1360,664,1483,691"/>
+<area shape="rect" id="node14" href="$group__bc__radio.html#gaf172563996016b5b08ef24aefa870ab0" title="Initialize radio. " alt="" coords="1587,715,1682,741"/>
+<area shape="rect" id="node17" href="$group__bc__tag__humidity.html#ga36ae45e289b8a7d6106089665910d57d" title="Initialize HARDWARIO Humidity Module. " alt="" coords="1564,385,1705,412"/>
+<area shape="rect" id="node22" href="$group__bc__module__climate.html#gaeaa8aa7003f49a1741380c2cdd07e322" title="Initialize HARDWARIO Climate Module. " alt="" coords="1555,816,1714,843"/>
+<area shape="rect" id="node23" href="$group__bc__tag__barometer.html#ga9ae5b1f4d56c6d1f4e3e2acc3f0ed0d2" title="Initialize HARDWARIO Barometer Module. " alt="" coords="1559,867,1710,893"/>
+<area shape="rect" id="node25" href="$group__bc__tag__lux__meter.html#ga0b3fdcc39e460870d8c98e0824002203" title="Initialize HARDWARIO Lux Meter Module. " alt="" coords="1560,1019,1709,1045"/>
+<area shape="rect" id="node28" href="$group__bc__tag__voc.html#ga9d5e822635aa47785481cddcc1daf846" title="Initialize HARDWARIO VOC Module. " alt="" coords="1578,1069,1691,1096"/>
+<area shape="rect" id="node40" href="$group__bc__module__sensor.html#gaebcf126e49db2659e153bfe11c5a2b52" title="Get Sensor Module revision. " alt="" coords="667,766,823,807"/>
+<area shape="rect" id="node41" href="$group__bc__module__sensor.html#ga14043d8f0e22293928b3117b857f10b8" title="Set VDD On / Off. " alt="" coords="872,715,1056,741"/>
+<area shape="rect" id="node42" href="$group__bc__module__sensor.html#ga9bad86dcf54715224a901f64fdf6ac64" title="Semaphore for 1Wire Power up: for R1.1 set VDD On, for R1.0 pull up 56R on channel A..." alt="" coords="1105,582,1287,623"/>
+<area shape="rect" id="node43" href="$group__bc__module__sensor.html#ga7143508faa18a19432d12bf76c624bba" title="Semaphore for 1Wire Power down: for R1.1 set VDD Off, for R1.0 pull none on channel A..." alt="" coords="1105,699,1287,741"/>
+<area shape="rect" id="node45" href="$group__bc__module__sensor.html#gafe9652b30cde2e0f524057efe47dc9e9" title="Set pull of Sensor Module channel. " alt="" coords="873,664,1055,691"/>
+<area shape="rect" id="node48" href="$group__bc__tca9534a.html#ga2d29bd741393dcbb0b11a1f76d60371d" title="Write pin state. " alt="" coords="460,832,615,859"/>
+<area shape="rect" id="node46" href="$group__bc__i2c.html#gaafb59b5679926106c2f101e3df0d341b" title="Deitialize I2C channel. " alt="" coords="1147,648,1245,675"/>
+<area shape="rect" id="node47" href="$group__bc__zssc3123.html#gac6a7445c8a48afe54c889c730cdc5dd1" title="Deitialize ZSSC3123. " alt="" coords="1353,208,1490,235"/>
+<area shape="rect" id="node49" href="$group__bc__module__lcd.html#gaf43b1a0418d6166b3431ab23361f5803" title="Lcd on. " alt="" coords="680,883,811,909"/>
+<area shape="rect" id="node50" href="$group__bc__module__lcd.html#gae10ca89dd6fbf30994a1a25ce1964e9d" title="Lcd off. " alt="" coords="680,832,811,859"/>
+</map>

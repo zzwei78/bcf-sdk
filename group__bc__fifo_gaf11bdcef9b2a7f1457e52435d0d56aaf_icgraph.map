@@ -1,0 +1,5 @@
+<map id="bc_fifo_read" name="bc_fifo_read">
+<area shape="rect" id="node2" href="$group__bc__module__rs485.html#ga521649c88e1b683f6211a58cc71d4a0d" title="Get data that has been received in async mode. " alt="" coords="147,5,346,32"/>
+<area shape="rect" id="node3" href="$group__bc__uart.html#ga4188979b85147c3146a6536320d734fc" title="Get data that has been received in async mode. " alt="" coords="177,56,316,83"/>
+<area shape="rect" id="node4" href="$group__bc__usb__cdc.html#gad79fb5a236b6aa5748fee58c39efe8d9" title="Read buffer from USB CDC (non&#45;blocking call) " alt="" coords="185,107,309,133"/>
+</map>

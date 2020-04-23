@@ -1,0 +1,4 @@
+<map id="bc_fifo_write" name="bc_fifo_write">
+<area shape="rect" id="node2" href="$group__bc__module__rs485.html#gab633d4194f7538bfae33749e97a2a73f" title="Add data to be transmited in async mode. " alt="" coords="150,5,317,46"/>
+<area shape="rect" id="node3" href="$group__bc__uart.html#gacfd1c9b17dcdec2f5036b33031849b45" title="Add data to be transmited in async mode. " alt="" coords="162,71,305,97"/>
+</map>

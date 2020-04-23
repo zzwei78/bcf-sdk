@@ -1,0 +1,11 @@
+<map id="bc_zssc3123_eeprom_read" name="bc_zssc3123_eeprom_read">
+<area shape="rect" id="node2" href="$group__bc__i2c.html#ga7a484423373a1a42b69988dd560913e4" title="Memory write 2 bytes to I2C channel. " alt="" coords="235,5,413,32"/>
+<area shape="rect" id="node5" href="$group__bc__timer.html#ga317db8385bf21fcfd02fea4ff9e0eedb" title="Start timer. " alt="" coords="271,56,377,83"/>
+<area shape="rect" id="node6" href="$group__bc__timer.html#gaa8f918df996e2fe8e204987c5fcc17db" title="Relative delay. " alt="" coords="269,107,379,133"/>
+<area shape="rect" id="node8" href="$group__bc__timer.html#ga9e03a542d4a1be5e551f7db010368192" title="Stop timer. " alt="" coords="272,157,376,184"/>
+<area shape="rect" id="node9" href="$group__bc__i2c.html#ga05fa9b2c1e510b1501fc4343d73e379b" title="Read from I2C channel. " alt="" coords="278,208,370,235"/>
+<area shape="rect" id="node3" href="$group__bc__i2c.html#ga09c340b2ac57f2c8ed358dab05cf9c0b" title="Memory write to I2C channel. " alt="" coords="480,5,629,32"/>
+<area shape="rect" id="node4" href="$group__bc__ds28e17.html#gae1baafe53feb279c3556a122782431ec" title="Memory write to I2C. " alt="" coords="696,5,877,32"/>
+<area shape="rect" id="node7" href="$group__bc__timer.html#ga65fa2d94790c292adfef2b870e72caa0" title="Get actual tick of timer. " alt="" coords="462,107,647,133"/>
+<area shape="rect" id="node10" href="$group__bc__ds28e17.html#gabf29668bdc891947c03db572a40fdb22" title="Read from I2C. " alt="" coords="493,208,617,235"/>
+</map>

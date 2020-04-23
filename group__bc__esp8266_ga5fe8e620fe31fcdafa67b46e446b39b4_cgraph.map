@@ -1,0 +1,9 @@
+<map id="bc_esp8266_init" name="bc_esp8266_init">
+<area shape="rect" id="node2" href="$group__bc__gpio.html#ga06db16c5cd7f6ffff7e297970814221d" title="Initialize GPIO channel. " alt="" coords="200,56,291,83"/>
+<area shape="rect" id="node5" href="$group__bc__gpio.html#ga63a3ad86dfef88c7c940a2a34945d853" title="Set mode of operation for GPIO channel. " alt="" coords="180,5,311,32"/>
+<area shape="rect" id="node6" href="$group__bc__gpio.html#ga1a15056524308ed212dada9d80bbfd81" title="Set output state for GPIO channel. " alt="" coords="178,107,313,133"/>
+<area shape="rect" id="node7" href="$group__bc__fifo.html#gaa7eed98919b150b8452698e5bc31ba1d" title="Initialize FIFO buffer. " alt="" coords="203,157,288,184"/>
+<area shape="rect" id="node8" href="$group__bc__scheduler.html#gac6e2fa9155567fb1f32a8b8b563e2f30" title="Register task in scheduler. " alt="" coords="171,208,320,235"/>
+<area shape="rect" id="node3" href="$group__bc__irq.html#ga83398e8b1c443f7bf1b1980959d3cc63" title="Disable interrupt requests globally (call can be nested) " alt="" coords="369,5,474,32"/>
+<area shape="rect" id="node4" href="$group__bc__irq.html#ga6bd1e6c1589c97558d14e8f3d648e656" title="Enable interrupt requests globally (call can be nested) " alt="" coords="370,56,473,83"/>
+</map>

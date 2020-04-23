@@ -1,0 +1,13 @@
+<map id="bc_cmwx1zzabz_init" name="bc_cmwx1zzabz_init">
+<area shape="rect" id="node2" href="$group__bc__fifo.html#gaa7eed98919b150b8452698e5bc31ba1d" title="Initialize FIFO buffer. " alt="" coords="667,5,752,32"/>
+<area shape="rect" id="node3" href="$group__bc__uart.html#gad397ffa074ff6fbd2444a27f369d2edf" title="Initialize UART channel. " alt="" coords="242,216,331,243"/>
+<area shape="rect" id="node4" href="$group__bc__uart.html#ga217ff05c1d596ad391017431ac17d867" title="Set buffers for async transfers. " alt="" coords="208,267,365,293"/>
+<area shape="rect" id="node5" href="$group__bc__uart.html#gaec23440802e3ec4d409f9c28b041b3f2" title="Start async reading. " alt="" coords="217,150,356,191"/>
+<area shape="rect" id="node6" href="$group__bc__scheduler.html#gac6e2fa9155567fb1f32a8b8b563e2f30" title="Register task in scheduler. " alt="" coords="635,81,784,108"/>
+<area shape="rect" id="node12" href="$group__bc__uart.html#ga73192527f7e923af66fdb6a1164b1907" title="Set callback function. " alt="" coords="197,317,376,344"/>
+<area shape="rect" id="node7" href="$group__bc__dma.html#gaf4e59e6f5f06125b5da2840e86242bd8" title="Initialize DMA. " alt="" coords="459,81,551,108"/>
+<area shape="rect" id="node8" href="$group__bc__dma.html#ga6a502635c436566741def85e1edd17e0" title="Configure DMA channel. " alt="" coords="424,284,587,311"/>
+<area shape="rect" id="node9" href="$group__bc__irq.html#ga83398e8b1c443f7bf1b1980959d3cc63" title="Disable interrupt requests globally (call can be nested) " alt="" coords="657,323,762,349"/>
+<area shape="rect" id="node10" href="$group__bc__irq.html#ga6bd1e6c1589c97558d14e8f3d648e656" title="Enable interrupt requests globally (call can be nested) " alt="" coords="658,247,761,273"/>
+<area shape="rect" id="node11" href="$group__bc__dma.html#gaf7ad146ca3fbd3d0ba6a2cf21cfd89a1" title="Start DMA channel. " alt="" coords="433,132,578,159"/>
+</map>

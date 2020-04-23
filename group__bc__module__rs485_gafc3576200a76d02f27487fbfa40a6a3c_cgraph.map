@@ -1,0 +1,6 @@
+<map id="bc_module_rs485_available" name="bc_module_rs485_available">
+<area shape="rect" id="node2" href="$group__bc__sc16is740.html#ga7ed6348a358e2d3617ef9de78a80d432" title="Get RX FIXO available data. " alt="" coords="237,5,397,32"/>
+<area shape="rect" id="node3" href="$group__bc__i2c.html#gaa1e6123c2b68672fb6c591d4c73d4e0d" title="Memory read 1 byte from I2C channel. " alt="" coords="446,5,613,32"/>
+<area shape="rect" id="node4" href="$group__bc__i2c.html#gac2f33729bf9c4751342a88bb917ee9fc" title="Memory read from I2C channel. " alt="" coords="661,5,808,32"/>
+<area shape="rect" id="node5" href="$group__bc__ds28e17.html#ga159050bb4986621d5d289433c987b5c0" title="Memory read from I2C. " alt="" coords="856,5,1035,32"/>
+</map>

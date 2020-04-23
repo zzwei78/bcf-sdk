@@ -1,0 +1,11 @@
+<map id="bc_hc_sr04_set_update_interval" name="bc_hc_sr04_set_update_interval">
+<area shape="rect" id="node2" href="$group__bc__scheduler.html#gade94244616617574eee859c0fb5df428" title="Schedule specified task to absolute tick. " alt="" coords="213,5,400,32"/>
+<area shape="rect" id="node3" href="$group__bc__scheduler.html#ga060b4fece6aff4a50c10f9f29416ee45" title="Schedule specified task to tick relative from current spin. " alt="" coords="217,56,396,83"/>
+<area shape="rect" id="node4" href="$group__bc__hc__sr04.html#ga15c3d435fa7538a6ca4a043de1897ec7" title="Start measurement manually. " alt="" coords="233,107,380,133"/>
+<area shape="rect" id="node5" href="$group__bc__scheduler.html#gac6e2fa9155567fb1f32a8b8b563e2f30" title="Register task in scheduler. " alt="" coords="448,5,597,32"/>
+<area shape="rect" id="node6" href="$group__bc__gpio.html#ga1a15056524308ed212dada9d80bbfd81" title="Set output state for GPIO channel. " alt="" coords="455,56,590,83"/>
+<area shape="rect" id="node7" href="$group__bc__timer.html#ga317db8385bf21fcfd02fea4ff9e0eedb" title="Start timer. " alt="" coords="470,107,575,133"/>
+<area shape="rect" id="node8" href="$group__bc__timer.html#gaa8f918df996e2fe8e204987c5fcc17db" title="Relative delay. " alt="" coords="467,157,578,184"/>
+<area shape="rect" id="node10" href="$group__bc__timer.html#ga9e03a542d4a1be5e551f7db010368192" title="Stop timer. " alt="" coords="471,208,575,235"/>
+<area shape="rect" id="node9" href="$group__bc__timer.html#ga65fa2d94790c292adfef2b870e72caa0" title="Get actual tick of timer. " alt="" coords="646,157,831,184"/>
+</map>

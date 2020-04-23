@@ -1,0 +1,51 @@
+<map id="bc_gpio_set_mode" name="bc_gpio_set_mode">
+<area shape="rect" id="node2" href="$group__bc__button.html#ga9d8e7624ae6eb9bbd71cd4116e95c4e3" title="Initialize button. " alt="" coords="230,124,333,151"/>
+<area shape="rect" id="node4" href="$group__bc__esp8266.html#ga5fe8e620fe31fcdafa67b46e446b39b4" title="Initialize ESP8266. " alt="" coords="223,175,339,201"/>
+<area shape="rect" id="node5" href="$group__bc__led.html#ga37676d859fb868955637b802affbb312" title="Initialize LED. " alt="" coords="239,225,323,252"/>
+<area shape="rect" id="node6" href="$group__bc__module__encoder.html#ga87a4e9832b7a4a2431e0aa6c6f1df27a" title="Deinitialize Encoder Module. " alt="" coords="193,276,369,303"/>
+<area shape="rect" id="node7" href="$group__bc__module__power.html#gadf23b21469581c6a756091a60895aa82" title="Initialize power module. " alt="" coords="206,327,357,353"/>
+<area shape="rect" id="node8" href="$group__bc__module__sensor.html#ga939d34dd217467d12958757433341b6e" title="Set output mode of Sensor Module channel. " alt="" coords="184,377,379,404"/>
+<area shape="rect" id="node10" href="$group__bc__onewire.html#ga60666697964ce9ea0bf87ac407a1d63c" title="Initialize 1&#45;Wire. " alt="" coords="225,428,337,455"/>
+<area shape="rect" id="node42" href="$group__bc__pwm.html#ga2991b617e86526936490c83f0ed655ba" title="Disable PWM output on GPIO pin. " alt="" coords="222,479,341,505"/>
+<area shape="rect" id="node43" href="$group__bc__pwm.html#ga12e4c546d8eff1f5f2d7a4a3c619c911" title="Enable PWM output on GPIO pin. " alt="" coords="223,529,339,556"/>
+<area shape="rect" id="node46" href="$group__bc__rf__ook.html#gac5d5be50bfc92e54374c4c57b95e7749" title="Initialize RF OOK library. " alt="" coords="230,580,333,607"/>
+<area shape="rect" id="node47" href="$group__bc__switch.html#ga0d4a37b027fd1b1fe5ab0dfb1e91e8b9" title="Initialize button. " alt="" coords="229,631,334,657"/>
+<area shape="rect" id="node48" href="$group__bc__td1207r.html#ga1b5a8cc467f2285e7894a9397be094dc" title="Initialize TD1207R. " alt="" coords="226,732,337,759"/>
+<area shape="rect" id="node50" href="$group__bc__wssfm10r1at.html#ga59a1f344c6a04ca7feaed904f5e578aa" title="Initialize WSSFM10R1AT. " alt="" coords="210,681,353,708"/>
+<area shape="rect" id="node3" href="$group__bc__module__encoder.html#ga6f67406dd1e0db504050b19437779001" title="Initialize Encoder Module. " alt="" coords="449,124,612,151"/>
+<area shape="rect" id="node9" href="$group__bc__pulse__counter.html#ga6d78b1c52014b693c271c39d17516694" title="Initialize pulse counter. " alt="" coords="457,268,605,295"/>
+<area shape="rect" id="node11" href="$group__bc__ds28e17.html#ga9111c4df0d96cbb920fb9cf5de06073c" title="Initialize DS28E17. " alt="" coords="473,487,589,513"/>
+<area shape="rect" id="node38" href="$group__bc__module__sensor.html#ga9ba70888d64cb97aa2c3d465f94fb24c" title="Initialize 1&#45;Wire on channel B. " alt="" coords="427,319,634,345"/>
+<area shape="rect" id="node39" href="$group__bc__onewire__relay.html#ga41982fb931823134762621daef4b8bad" title="Initialize relay. " alt="" coords="457,369,604,396"/>
+<area shape="rect" id="node40" href="$group__bc__soil__sensor.html#gaaf5b987f52f8822ef12238829986e083" title="Initialize multiple Soil sensor. " alt="" coords="464,421,597,462"/>
+<area shape="rect" id="node12" href="$group__bc__i2c.html#ga8f29242288303f0328c6514068e516fa" title="Initialize I2C channel. " alt="" coords="707,487,791,513"/>
+<area shape="rect" id="node13" href="$group__bc__atsha204.html#gaf84d4883b887c51ac16f459167e04cd6" title="Initialize ATSHA204 driver. " alt="" coords="889,5,1009,32"/>
+<area shape="rect" id="node15" href="$group__bc__cy8cmbr3102.html#ga976c1e7933aba1f55be114a9e368417a" title="Initialize CY8CMBR3102. " alt="" coords="877,56,1022,83"/>
+<area shape="rect" id="node16" href="$group__bc__hdc2080.html#gabac119de881d5c96af19f32f2f7927ce" title="Initialize HDC2080. " alt="" coords="891,107,1007,133"/>
+<area shape="rect" id="node18" href="$group__bc__hts221.html#ga6fa1b3193fe2b98f5edf0066b9a4bc7a" title="Initialize HTS221. " alt="" coords="896,157,1003,184"/>
+<area shape="rect" id="node19" href="$group__bc__lis2dh12.html#ga4e706e214a03b568e43b923931774160" title="Initialize LIS2DH12. " alt="" coords="892,461,1007,488"/>
+<area shape="rect" id="node20" href="$group__bc__module__infra__grid.html#gadfc9b5742966ca4896db01d4b83a5f2e" title="Initialize Infra Grid Module. " alt="" coords="865,512,1034,539"/>
+<area shape="rect" id="node21" href="$group__bc__mpl3115a2.html#ga634445e187612f04ed034c3f95ef006e" title="Initialize MPL3115A2. " alt="" coords="884,360,1015,387"/>
+<area shape="rect" id="node24" href="$group__bc__opt3001.html#ga3db4ea45d7c7b4cb5e63fda04802e1ba" title="Initialize OPT3001 driver. " alt="" coords="893,411,1006,437"/>
+<area shape="rect" id="node26" href="$group__bc__sam__m8q.html#ga27874c5c6b8bc0eaf16545263f0ac15f" title="Initialize SAM&#45;M8Q module driver. " alt="" coords="887,563,1011,589"/>
+<area shape="rect" id="node27" href="$group__bc__sc16is740.html#ga088ffb060685d4af0025f5630891bf65" title="SC16IS740 instance. " alt="" coords="886,613,1013,640"/>
+<area shape="rect" id="node28" href="$group__bc__sgp30.html#ga28a7279895589924c915bc4a6c018a30" title="Initialize SGP30. " alt="" coords="898,664,1001,691"/>
+<area shape="rect" id="node29" href="$group__bc__sgpc3.html#gabcd18260679d87adef3ad00e9e0af5cc" title="Initialize SGPC3. " alt="" coords="898,715,1001,741"/>
+<area shape="rect" id="node30" href="$group__bc__sht20.html#gad12a0ad3e38bbb1ed81f0087180ac3af" title="Initialize SHT20. " alt="" coords="900,259,999,285"/>
+<area shape="rect" id="node31" href="$group__bc__sht30.html#ga1ba8cd4b03dd6de2fa5a78e7ded48e71" title="Initialize SHT30. " alt="" coords="900,208,999,235"/>
+<area shape="rect" id="node32" href="$group__bc__sps30.html#ga40dabc728d1ecde6baf1edc3d9b06e19" title="Initialize SPS30. " alt="" coords="898,765,1001,792"/>
+<area shape="rect" id="node33" href="$group__bc__ssd1306.html#ga6b3714dbb27136b26b74747951bb723a" title="Initialize lcd driver. " alt="" coords="891,816,1007,843"/>
+<area shape="rect" id="node34" href="$group__bc__tag__nfc.html#ga6f6000d04b810a211ed29dd83fc49b34" title="Initialize NFC Tag. " alt="" coords="894,867,1005,893"/>
+<area shape="rect" id="node35" href="$group__bc__tca9534a.html#gab392a5644d1d4ccab47c95f04b4786cf" title="Initialize TCA9534A. " alt="" coords="889,917,1009,944"/>
+<area shape="rect" id="node36" href="$group__bc__tmp112.html#gafa5c6541860450a84023c16293d977ac" title="Initialize TMP112. " alt="" coords="894,309,1005,336"/>
+<area shape="rect" id="node37" href="$group__bc__zssc3123.html#gaff24cd1cb2ad8861832f8972e1e738ae" title="Initialize ZSSC3123. " alt="" coords="888,968,1011,995"/>
+<area shape="rect" id="node14" href="$group__bc__radio.html#gaf172563996016b5b08ef24aefa870ab0" title="Initialize radio. " alt="" coords="1115,5,1210,32"/>
+<area shape="rect" id="node17" href="$group__bc__tag__humidity.html#ga36ae45e289b8a7d6106089665910d57d" title="Initialize HARDWARIO Humidity Module. " alt="" coords="1092,183,1233,209"/>
+<area shape="rect" id="node22" href="$group__bc__module__climate.html#gaeaa8aa7003f49a1741380c2cdd07e322" title="Initialize HARDWARIO Climate Module. " alt="" coords="1083,309,1242,336"/>
+<area shape="rect" id="node23" href="$group__bc__tag__barometer.html#ga9ae5b1f4d56c6d1f4e3e2acc3f0ed0d2" title="Initialize HARDWARIO Barometer Module. " alt="" coords="1087,360,1238,387"/>
+<area shape="rect" id="node25" href="$group__bc__tag__lux__meter.html#ga0b3fdcc39e460870d8c98e0824002203" title="Initialize HARDWARIO Lux Meter Module. " alt="" coords="1088,411,1237,437"/>
+<area shape="rect" id="node41" href="$group__bc__soil__sensor.html#ga56d1112c93fe427298ff8ab4bf3698dd" title="Initialize Soil sensor. " alt="" coords="683,428,816,455"/>
+<area shape="rect" id="node44" href="$group__bc__servo.html#ga6a5c54616feb7cb090340995aad53dfc" title="Set angle. " alt="" coords="461,588,600,615"/>
+<area shape="rect" id="node45" href="$group__bc__servo.html#gac8374b62da6dcded2a7ed147b50540b1" title="Set Microseconds. " alt="" coords="437,537,625,564"/>
+<area shape="rect" id="node49" href="$group__bc__module__sigfox.html#ga85ecac7b2744ca0180323c5448eafe0d" title="Initialize HARDWARIO SigFox Module. " alt="" coords="455,707,606,733"/>
+</map>

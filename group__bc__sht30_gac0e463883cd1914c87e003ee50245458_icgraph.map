@@ -1,0 +1,8 @@
+<map id="bc_sht30_get_temperature_celsius" name="bc_sht30_get_temperature_celsius">
+<area shape="rect" id="node2" href="$group__bc__module__climate.html#ga99b6a158e6d892093ec3624344380f0b" title="Get measured temperature in degrees of Celsius. " alt="" coords="238,5,397,46"/>
+<area shape="rect" id="node3" href="$group__bc__sht30.html#ga9737856797efb5880cd6128dd67805d5" title="Get measured temperature in degrees of Fahrenheit. " alt="" coords="229,70,405,111"/>
+<area shape="rect" id="node5" href="$group__bc__sht30.html#ga905c60196587ff2506990bda8aa957f6" title="Get measured temperature in kelvin. " alt="" coords="229,135,405,177"/>
+<area shape="rect" id="node7" href="$group__bc__tag__humidity.html#gaf3e435e1ee18730eebc3b2a2dd699922" title="Get measured temperature in degrees of Celsius. " alt="" coords="244,201,391,242"/>
+<area shape="rect" id="node4" href="$group__bc__module__climate.html#gab0d3a05b8fd89901a0c6d4f8d1f8b3f0" title="Get measured temperature in degrees of Fahrenheit. " alt="" coords="453,70,616,111"/>
+<area shape="rect" id="node6" href="$group__bc__module__climate.html#ga50f2fd18493061a7f793cbbe0e3ac59f" title="Get measured temperature in kelvin. " alt="" coords="455,135,614,177"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="bc_uart_async_read_cancel" name="bc_uart_async_read_cancel">
+<area shape="rect" id="node2" href="$group__bc__dma.html#gacd026e32f49ce197286dcc4cf8bfc16c" title="Stop DMA channel. " alt="" coords="197,5,349,32"/>
+<area shape="rect" id="node3" href="$group__bc__scheduler.html#gae1d865cf578e9994cd50a972af54fc20" title="Unregister specified task. " alt="" coords="192,56,355,83"/>
+<area shape="rect" id="node4" href="$group__bc__irq.html#ga83398e8b1c443f7bf1b1980959d3cc63" title="Disable interrupt requests globally (call can be nested) " alt="" coords="221,107,326,133"/>
+<area shape="rect" id="node5" href="$group__bc__irq.html#ga6bd1e6c1589c97558d14e8f3d648e656" title="Enable interrupt requests globally (call can be nested) " alt="" coords="222,157,325,184"/>
+</map>

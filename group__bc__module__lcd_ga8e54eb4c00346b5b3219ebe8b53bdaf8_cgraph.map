@@ -1,0 +1,4 @@
+<map id="bc_module_lcd_draw_char" name="bc_module_lcd_draw_char">
+<area shape="rect" id="node2" href="$group__bc__gfx.html#gac1d38840dc5e40b3e74353d5ca16128e" title="Display draw char. " alt="" coords="229,5,357,32"/>
+<area shape="rect" id="node3" href="$group__bc__gfx.html#ga7bf38ffbe236eb485b6ac722697098fc" title="Draw pixel. " alt="" coords="405,5,536,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="bc_atci_set_uart_active_callback" name="bc_atci_set_uart_active_callback">
+<area shape="rect" id="node2" href="$group__bc__scheduler.html#gae1d865cf578e9994cd50a972af54fc20" title="Unregister specified task. " alt="" coords="213,5,376,32"/>
+<area shape="rect" id="node3" href="$group__bc__scheduler.html#gac6e2fa9155567fb1f32a8b8b563e2f30" title="Register task in scheduler. " alt="" coords="220,56,369,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="bc_spi_set_mode" name="bc_spi_set_mode">
+<area shape="rect" id="node2" href="$group__bc__spi.html#ga00fa848c8a590fbb7ba1d567a749a87c" title="Initialize SPI channel. " alt="" coords="179,5,263,32"/>
+<area shape="rect" id="node3" href="$group__bc__ls013b7dh03.html#gaeb0f949a358d67f2b6c85bcc25f49335" title="Initialize lcd driver. " alt="" coords="313,5,453,32"/>
+<area shape="rect" id="node4" href="$group__bc__module__lcd.html#ga5c58b9b82d5dfd4ae3c263c223ed5181" title="Initialize lcd. " alt="" coords="501,5,635,32"/>
+</map>

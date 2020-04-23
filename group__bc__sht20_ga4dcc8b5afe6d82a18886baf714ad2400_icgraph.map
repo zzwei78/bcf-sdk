@@ -1,0 +1,5 @@
+<map id="bc_sht20_get_temperature_celsius" name="bc_sht20_get_temperature_celsius">
+<area shape="rect" id="node2" href="$group__bc__sht20.html#ga7fda14e2c1c202b7c27e982e9b199c7b" title="Get measured temperature in degrees of Fahrenheit. " alt="" coords="229,5,405,46"/>
+<area shape="rect" id="node3" href="$group__bc__sht20.html#gab2e142507613f451f44ddf798655de40" title="Get measured temperature in kelvin. " alt="" coords="229,70,405,111"/>
+<area shape="rect" id="node4" href="$group__bc__tag__humidity.html#gaf3e435e1ee18730eebc3b2a2dd699922" title="Get measured temperature in degrees of Celsius. " alt="" coords="244,135,391,177"/>
+</map>

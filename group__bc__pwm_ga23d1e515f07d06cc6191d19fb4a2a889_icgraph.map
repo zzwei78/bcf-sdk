@@ -1,0 +1,4 @@
+<map id="bc_pwm_set" name="bc_pwm_set">
+<area shape="rect" id="node2" href="$group__bc__servo.html#ga6a5c54616feb7cb090340995aad53dfc" title="Set angle. " alt="" coords="175,5,313,32"/>
+<area shape="rect" id="node3" href="$group__bc__servo.html#gac8374b62da6dcded2a7ed147b50540b1" title="Set Microseconds. " alt="" coords="150,56,338,83"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="bc_i2c_memory_write" name="bc_i2c_memory_write">
+<area shape="rect" id="node2" href="$group__bc__i2c.html#ga7a484423373a1a42b69988dd560913e4" title="Memory write 2 bytes to I2C channel. " alt="" coords="203,165,381,192"/>
+<area shape="rect" id="node9" href="$group__bc__i2c.html#ga313a279d51a755361b0d57eea6bcc226" title="Memory write 1 byte to I2C channel. " alt="" coords="207,543,377,569"/>
+<area shape="rect" id="node34" href="$group__bc__tag__nfc.html#ga6f6000d04b810a211ed29dd83fc49b34" title="Initialize NFC Tag. " alt="" coords="1587,1303,1698,1329"/>
+<area shape="rect" id="node47" href="$group__bc__sc16is740.html#ga003b5d1e65242e2b8211200738cdcdf9" title="Write. " alt="" coords="223,1429,361,1456"/>
+<area shape="rect" id="node49" href="$group__bc__tag__nfc.html#ga7b2595d4a3914251adf203917d96ffec" title="Write to memory. " alt="" coords="205,1480,379,1507"/>
+<area shape="rect" id="node3" href="$group__bc__tmp112.html#ga1b762397e6e999f56dd0e23c0af55669" title="Deinitialize TMP112. " alt="" coords="471,289,595,316"/>
+<area shape="rect" id="node4" href="$group__bc__zssc3123.html#ga83d15c83bc8ce0bfb9c83593e0a0a164" title="Start Command Mode. " alt="" coords="455,5,612,32"/>
+<area shape="rect" id="node5" href="$group__bc__zssc3123.html#gaeb81be86442c5327ab0fb55b8e062cfb" title="Ends Command Mode. " alt="" coords="457,56,609,83"/>
+<area shape="rect" id="node6" href="$group__bc__zssc3123.html#gaac78e73c392e6cda16cf9b0c48ec9bda" title="Write to eeprom, work only with command mode. " alt="" coords="443,107,624,133"/>
+<area shape="rect" id="node7" href="$group__bc__zssc3123.html#gaf82220fd0b04c8751b9d6a22001db00c" title="Read from eeprm, work only with command mode. " alt="" coords="459,158,608,199"/>
+<area shape="rect" id="node8" href="$group__bc__zssc3123.html#gaccddb077f7c1eedf8e452cdf53d337a4" title="Unlock eerpom, work only with command mode. " alt="" coords="461,223,605,265"/>
+<area shape="rect" id="node10" href="$group__bc__lis2dh12.html#gabdb52865d27aca4cd3f0ca31133f4187" title="Enable or disable accelerometer threshold alarm. " alt="" coords="456,391,611,417"/>
+<area shape="rect" id="node11" href="$group__bc__module__rs485.html#gac3a22658a946e7fdd920557884f51d3f" title="Initialize RS&#45;485 Module. " alt="" coords="1777,441,1925,468"/>
+<area shape="rect" id="node12" href="$group__bc__module__rs485.html#ga1c89bbb9306760443f0d9dac6b7ca180" title="Deinitialize RS&#45;485 Module. " alt="" coords="452,492,615,519"/>
+<area shape="rect" id="node13" href="$group__bc__sc16is740.html#ga088ffb060685d4af0025f5630891bf65" title="SC16IS740 instance. " alt="" coords="1579,492,1706,519"/>
+<area shape="rect" id="node14" href="$group__bc__sc16is740.html#ga5099c82a8455728e380ab436719d45da" title="Reset FIFO. " alt="" coords="1104,353,1267,380"/>
+<area shape="rect" id="node15" href="$group__bc__sc16is740.html#ga83b0d7316a667551cb750c220142cf06" title="Set baudrate. " alt="" coords="441,745,625,772"/>
+<area shape="rect" id="node17" href="$group__bc__tca9534a.html#ga4707e216045466f49d56e2fe58f9ec04" title="Write state to all pins. " alt="" coords="453,952,613,979"/>
+<area shape="rect" id="node45" href="$group__bc__tca9534a.html#ga3031df848b97bb621de3a2268af49b4e" title="Set direction of all pins. " alt="" coords="458,647,609,689"/>
+<area shape="rect" id="node16" href="$group__bc__module__rs485.html#ga0b508d820f7ebb4a855ef59f6660b078" title="Set baudrate. " alt="" coords="688,827,837,869"/>
+<area shape="rect" id="node18" href="$group__bc__module__gps.html#gacdd192df1a6277183e152358b070a6aa" title="Initialize HARDWARIO GPS Module. " alt="" coords="1782,948,1919,975"/>
+<area shape="rect" id="node19" href="$group__bc__module__sensor.html#ga1079c2c19c21e89aa17cc1078737eb4e" title="Initialize Sensor Module. " alt="" coords="685,711,840,737"/>
+<area shape="rect" id="node36" href="$group__bc__module__sensor.html#gafe9652b30cde2e0f524057efe47dc9e9" title="Set pull of Sensor Module channel. " alt="" coords="1094,897,1277,924"/>
+<area shape="rect" id="node40" href="$group__bc__module__sensor.html#ga14043d8f0e22293928b3117b857f10b8" title="Set VDD On / Off. " alt="" coords="1093,999,1277,1025"/>
+<area shape="rect" id="node41" href="$group__bc__tca9534a.html#ga2d29bd741393dcbb0b11a1f76d60371d" title="Write pin state. " alt="" coords="685,1061,840,1088"/>
+<area shape="rect" id="node20" href="$group__bc__i2c.html#ga8f29242288303f0328c6514068e516fa" title="Initialize I2C channel. " alt="" coords="1375,847,1459,873"/>
+<area shape="rect" id="node35" href="$group__bc__pulse__counter.html#ga6d78b1c52014b693c271c39d17516694" title="Initialize pulse counter. " alt="" coords="1343,760,1491,787"/>
+<area shape="rect" id="node21" href="$group__bc__atsha204.html#gaf84d4883b887c51ac16f459167e04cd6" title="Initialize ATSHA204 driver. " alt="" coords="1583,897,1703,924"/>
+<area shape="rect" id="node22" href="$group__bc__cy8cmbr3102.html#ga976c1e7933aba1f55be114a9e368417a" title="Initialize CY8CMBR3102. " alt="" coords="1570,948,1715,975"/>
+<area shape="rect" id="node23" href="$group__bc__hdc2080.html#gabac119de881d5c96af19f32f2f7927ce" title="Initialize HDC2080. " alt="" coords="1585,999,1701,1025"/>
+<area shape="rect" id="node24" href="$group__bc__hts221.html#ga6fa1b3193fe2b98f5edf0066b9a4bc7a" title="Initialize HTS221. " alt="" coords="1589,1049,1696,1076"/>
+<area shape="rect" id="node25" href="$group__bc__lis2dh12.html#ga4e706e214a03b568e43b923931774160" title="Initialize LIS2DH12. " alt="" coords="1585,1100,1700,1127"/>
+<area shape="rect" id="node26" href="$group__bc__module__infra__grid.html#gadfc9b5742966ca4896db01d4b83a5f2e" title="Initialize Infra Grid Module. " alt="" coords="1558,1151,1727,1177"/>
+<area shape="rect" id="node27" href="$group__bc__mpl3115a2.html#ga634445e187612f04ed034c3f95ef006e" title="Initialize MPL3115A2. " alt="" coords="1577,1201,1708,1228"/>
+<area shape="rect" id="node28" href="$group__bc__opt3001.html#ga3db4ea45d7c7b4cb5e63fda04802e1ba" title="Initialize OPT3001 driver. " alt="" coords="1586,593,1699,620"/>
+<area shape="rect" id="node29" href="$group__bc__sam__m8q.html#ga27874c5c6b8bc0eaf16545263f0ac15f" title="Initialize SAM&#45;M8Q module driver. " alt="" coords="1581,644,1705,671"/>
+<area shape="rect" id="node30" href="$group__bc__sgp30.html#ga28a7279895589924c915bc4a6c018a30" title="Initialize SGP30. " alt="" coords="1591,695,1694,721"/>
+<area shape="rect" id="node31" href="$group__bc__sgpc3.html#gabcd18260679d87adef3ad00e9e0af5cc" title="Initialize SGPC3. " alt="" coords="1591,745,1694,772"/>
+<area shape="rect" id="node32" href="$group__bc__sht20.html#gad12a0ad3e38bbb1ed81f0087180ac3af" title="Initialize SHT20. " alt="" coords="1593,796,1692,823"/>
+<area shape="rect" id="node33" href="$group__bc__sht30.html#ga1ba8cd4b03dd6de2fa5a78e7ded48e71" title="Initialize SHT30. " alt="" coords="1593,847,1692,873"/>
+<area shape="rect" id="node37" href="$group__bc__i2c.html#gaafb59b5679926106c2f101e3df0d341b" title="Deitialize I2C channel. " alt="" coords="1368,897,1467,924"/>
+<area shape="rect" id="node38" href="$group__bc__module__sensor.html#ga9bad86dcf54715224a901f64fdf6ac64" title="Semaphore for 1Wire Power up: for R1.1 set VDD On, for R1.0 pull up 56R on channel A..." alt="" coords="1326,1014,1509,1055"/>
+<area shape="rect" id="node39" href="$group__bc__module__sensor.html#ga7143508faa18a19432d12bf76c624bba" title="Semaphore for 1Wire Power down: for R1.1 set VDD Off, for R1.0 pull none on channel A..." alt="" coords="1326,949,1509,990"/>
+<area shape="rect" id="node42" href="$group__bc__module__lcd.html#gaf43b1a0418d6166b3431ab23361f5803" title="Lcd on. " alt="" coords="901,1061,1032,1088"/>
+<area shape="rect" id="node43" href="$group__bc__module__lcd.html#gae10ca89dd6fbf30994a1a25ce1964e9d" title="Lcd off. " alt="" coords="901,1112,1032,1139"/>
+<area shape="rect" id="node44" href="$group__bc__module__sensor.html#gaebcf126e49db2659e153bfe11c5a2b52" title="Get Sensor Module revision. " alt="" coords="889,945,1045,986"/>
+<area shape="rect" id="node46" href="$group__bc__tca9534a.html#gadc9fba4363f774f26ee745e92f7366a8" title="Set pin direction. " alt="" coords="690,762,835,803"/>
+<area shape="rect" id="node48" href="$group__bc__module__rs485.html#ga5f26c0f16d6c1b6adc502a721a1ef484" title="Write data to RS&#45;485 bus. " alt="" coords="454,1429,613,1456"/>
+<area shape="rect" id="node50" href="$group__bc__tag__nfc.html#ga902b0cc324974986cdb805e5f41bb7d7" title="Write to memory. " alt="" coords="430,1480,637,1507"/>
+</map>

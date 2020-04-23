@@ -1,0 +1,51 @@
+<map id="bc_tick_get" name="bc_tick_get">
+<area shape="rect" id="node2" href="$group__bc__aes.html#ga2f7ce8c2e4bfa0afdd23eef9d26acf59" title="AES derivation decryption key from encryption key. " alt="" coords="164,471,319,497"/>
+<area shape="rect" id="node3" href="$group__bc__cy8cmbr3102.html#ga385a73624d11078537b52f5fb95c1b65" title="Set scan interval. " alt="" coords="168,522,315,563"/>
+<area shape="rect" id="node4" href="$group__bc__i2c.html#ga8f29242288303f0328c6514068e516fa" title="Initialize I2C channel. " alt="" coords="199,588,283,615"/>
+<area shape="rect" id="node36" href="$group__bc__lp8.html#ga3797534f427d59e7d71e3254040a8a4a" title="Initialize LP8. " alt="" coords="199,749,283,776"/>
+<area shape="rect" id="node38" href="$group__bc__module__lcd.html#ga4deacf537bee78c3c4ccb234870e41df" title="Lcd draw image. " alt="" coords="169,801,313,842"/>
+<area shape="rect" id="node39" href="$group__bc__ramp.html#ga02cf402c130ec02a1d48b4c946cefe7c" title="Get current ramp value. " alt="" coords="193,867,290,893"/>
+<area shape="rect" id="node40" href="$group__bc__ramp.html#gac8ef37204b0f2cd060d808d468669ab9" title="Start ramp sequence. " alt="" coords="189,917,294,944"/>
+<area shape="rect" id="node41" href="$group__bc__sc16is740.html#ga45fe46c3432936b825689b55bd1ec85b" title="Read. " alt="" coords="174,968,309,995"/>
+<area shape="rect" id="node43" href="$group__bc__scheduler.html#ga24585ae64ca01ac49b2cc62b4cb5c5de" title="Schedule current task to tick relative from now. " alt="" coords="153,1019,330,1061"/>
+<area shape="rect" id="node44" href="$group__bc__scheduler.html#gab7a3ab8db1e126e531bfa8ebb3439586" title="Schedule specified task to tick relative from now. " alt="" coords="144,1085,339,1112"/>
+<area shape="rect" id="node46" href="$group__bc__scheduler.html#gae127d7da60ea52a5801bafc4e987cfa1" title="Run task scheduler (this call never ends) " alt="" coords="179,1136,303,1163"/>
+<area shape="rect" id="node47" href="$group__bc__spirit.html#ga18bd2ba84c0f7a735638d8aa01141cff" title="Set TX timeout. " alt="" coords="156,1187,327,1213"/>
+<area shape="rect" id="node48" href="$group__bc__sps30.html#ga81ff7b3038fbfbb2c3b1f98e44928f42" title="Start measurement manually. " alt="" coords="174,1237,309,1264"/>
+<area shape="rect" id="node49" href="$group__bc__tick.html#ga4edcb7610f3a978981713c7e91c95169" title="Delay execution for specified amount of ticks. " alt="" coords="194,1288,289,1315"/>
+<area shape="rect" id="node50" href="$group__bc__uart.html#ga4256fe65e122609345ab0702924ad5a9" title="Read data from UART channel (blocking call) " alt="" coords="193,1339,290,1365"/>
+<area shape="rect" id="node5" href="$group__bc__atsha204.html#gaf84d4883b887c51ac16f459167e04cd6" title="Initialize ATSHA204 driver. " alt="" coords="412,309,532,336"/>
+<area shape="rect" id="node7" href="$group__bc__cy8cmbr3102.html#ga976c1e7933aba1f55be114a9e368417a" title="Initialize CY8CMBR3102. " alt="" coords="399,360,545,387"/>
+<area shape="rect" id="node8" href="$group__bc__hdc2080.html#gabac119de881d5c96af19f32f2f7927ce" title="Initialize HDC2080. " alt="" coords="414,411,530,437"/>
+<area shape="rect" id="node10" href="$group__bc__hts221.html#ga6fa1b3193fe2b98f5edf0066b9a4bc7a" title="Initialize HTS221. " alt="" coords="419,461,525,488"/>
+<area shape="rect" id="node11" href="$group__bc__lis2dh12.html#ga4e706e214a03b568e43b923931774160" title="Initialize LIS2DH12. " alt="" coords="415,765,529,792"/>
+<area shape="rect" id="node12" href="$group__bc__module__infra__grid.html#gadfc9b5742966ca4896db01d4b83a5f2e" title="Initialize Infra Grid Module. " alt="" coords="387,816,557,843"/>
+<area shape="rect" id="node13" href="$group__bc__mpl3115a2.html#ga634445e187612f04ed034c3f95ef006e" title="Initialize MPL3115A2. " alt="" coords="407,613,537,640"/>
+<area shape="rect" id="node16" href="$group__bc__opt3001.html#ga3db4ea45d7c7b4cb5e63fda04802e1ba" title="Initialize OPT3001 driver. " alt="" coords="415,664,529,691"/>
+<area shape="rect" id="node18" href="$group__bc__sam__m8q.html#ga27874c5c6b8bc0eaf16545263f0ac15f" title="Initialize SAM&#45;M8Q module driver. " alt="" coords="410,867,534,893"/>
+<area shape="rect" id="node20" href="$group__bc__sc16is740.html#ga088ffb060685d4af0025f5630891bf65" title="SC16IS740 instance. " alt="" coords="409,1019,535,1045"/>
+<area shape="rect" id="node22" href="$group__bc__sgp30.html#ga28a7279895589924c915bc4a6c018a30" title="Initialize SGP30. " alt="" coords="421,5,523,32"/>
+<area shape="rect" id="node24" href="$group__bc__sgpc3.html#gabcd18260679d87adef3ad00e9e0af5cc" title="Initialize SGPC3. " alt="" coords="421,56,523,83"/>
+<area shape="rect" id="node26" href="$group__bc__sht20.html#gad12a0ad3e38bbb1ed81f0087180ac3af" title="Initialize SHT20. " alt="" coords="423,563,521,589"/>
+<area shape="rect" id="node27" href="$group__bc__sht30.html#ga1ba8cd4b03dd6de2fa5a78e7ded48e71" title="Initialize SHT30. " alt="" coords="423,512,521,539"/>
+<area shape="rect" id="node28" href="$group__bc__sps30.html#ga40dabc728d1ecde6baf1edc3d9b06e19" title="Initialize SPS30. " alt="" coords="421,107,523,133"/>
+<area shape="rect" id="node29" href="$group__bc__ssd1306.html#ga6b3714dbb27136b26b74747951bb723a" title="Initialize lcd driver. " alt="" coords="414,157,530,184"/>
+<area shape="rect" id="node30" href="$group__bc__tag__nfc.html#ga6f6000d04b810a211ed29dd83fc49b34" title="Initialize NFC Tag. " alt="" coords="417,208,527,235"/>
+<area shape="rect" id="node31" href="$group__bc__tca9534a.html#gab392a5644d1d4ccab47c95f04b4786cf" title="Initialize TCA9534A. " alt="" coords="412,917,532,944"/>
+<area shape="rect" id="node33" href="$group__bc__tmp112.html#gafa5c6541860450a84023c16293d977ac" title="Initialize TMP112. " alt="" coords="417,715,527,741"/>
+<area shape="rect" id="node35" href="$group__bc__zssc3123.html#gaff24cd1cb2ad8861832f8972e1e738ae" title="Initialize ZSSC3123. " alt="" coords="411,259,533,285"/>
+<area shape="rect" id="node6" href="$group__bc__radio.html#gaf172563996016b5b08ef24aefa870ab0" title="Initialize radio. " alt="" coords="639,309,734,336"/>
+<area shape="rect" id="node9" href="$group__bc__tag__humidity.html#ga36ae45e289b8a7d6106089665910d57d" title="Initialize HARDWARIO Humidity Module. " alt="" coords="616,487,757,513"/>
+<area shape="rect" id="node14" href="$group__bc__module__climate.html#gaeaa8aa7003f49a1741380c2cdd07e322" title="Initialize HARDWARIO Climate Module. " alt="" coords="607,613,766,640"/>
+<area shape="rect" id="node15" href="$group__bc__tag__barometer.html#ga9ae5b1f4d56c6d1f4e3e2acc3f0ed0d2" title="Initialize HARDWARIO Barometer Module. " alt="" coords="611,563,762,589"/>
+<area shape="rect" id="node17" href="$group__bc__tag__lux__meter.html#ga0b3fdcc39e460870d8c98e0824002203" title="Initialize HARDWARIO Lux Meter Module. " alt="" coords="612,664,761,691"/>
+<area shape="rect" id="node19" href="$group__bc__module__gps.html#gacdd192df1a6277183e152358b070a6aa" title="Initialize HARDWARIO GPS Module. " alt="" coords="618,880,755,907"/>
+<area shape="rect" id="node21" href="$group__bc__module__rs485.html#gac3a22658a946e7fdd920557884f51d3f" title="Initialize RS&#45;485 Module. " alt="" coords="613,1019,761,1045"/>
+<area shape="rect" id="node23" href="$group__bc__tag__voc.html#ga9d5e822635aa47785481cddcc1daf846" title="Initialize HARDWARIO VOC Module. " alt="" coords="630,5,743,32"/>
+<area shape="rect" id="node25" href="$group__bc__tag__voc__lp.html#gacb25c23cae8f2d1210272f24600598f7" title="Initialize HARDWARIO VOC&#45;LP Module. " alt="" coords="621,56,752,83"/>
+<area shape="rect" id="node32" href="$group__bc__module__sensor.html#ga1079c2c19c21e89aa17cc1078737eb4e" title="Initialize Sensor Module. " alt="" coords="609,956,764,983"/>
+<area shape="rect" id="node34" href="$group__bc__tag__temperature.html#gad01d8bc1a7320cb8dbb0f1306d333783" title="Initialize HARDWARIO Temperature Module. " alt="" coords="606,715,767,741"/>
+<area shape="rect" id="node37" href="$group__bc__module__co2.html#gadb0e38dec23d91719b530590ea08cf49" title="Initialize HARDWARIO CO2 Module. " alt="" coords="403,1069,541,1096"/>
+<area shape="rect" id="node42" href="$group__bc__module__rs485.html#gad3a0b2ec7534a14b0e805c1e77a8e40d" title="Read the received data. " alt="" coords="394,1120,550,1147"/>
+<area shape="rect" id="node45" href="$group__bc__led.html#ga70430d42b18f282381a8c8044c8adf94" title="Turn on LED for the specified duration of time. " alt="" coords="423,1171,521,1197"/>
+</map>

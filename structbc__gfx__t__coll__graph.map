@@ -1,0 +1,7 @@
+<map id="bc_gfx_t" name="bc_gfx_t">
+<area shape="rect" id="node2" href="$structbc__font__t.html" title="bc_font_t" alt="" coords="26,187,101,213"/>
+<area shape="rect" id="node3" href="$structbc__font__char__t.html" title="bc_font_char_t" alt="" coords="10,96,117,123"/>
+<area shape="rect" id="node4" href="$structbc__font__image__t.html" title="bc_font_image_t" alt="" coords="5,5,123,32"/>
+<area shape="rect" id="node5" href="$structbc__gfx__driver__t.html" title="Display driver interface. " alt="" coords="215,187,325,213"/>
+<area shape="rect" id="node6" href="$structbc__gfx__caps__t.html" title="Display size. " alt="" coords="161,96,268,123"/>
+</map>

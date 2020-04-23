@@ -1,0 +1,6 @@
+<map id="bc_spi_async_transfer" name="bc_spi_async_transfer">
+<area shape="rect" id="node2" href="$group__bc__dma.html#ga6a502635c436566741def85e1edd17e0" title="Configure DMA channel. " alt="" coords="208,31,371,57"/>
+<area shape="rect" id="node5" href="$group__bc__dma.html#gaf7ad146ca3fbd3d0ba6a2cf21cfd89a1" title="Start DMA channel. " alt="" coords="217,81,362,108"/>
+<area shape="rect" id="node3" href="$group__bc__irq.html#ga83398e8b1c443f7bf1b1980959d3cc63" title="Disable interrupt requests globally (call can be nested) " alt="" coords="419,5,525,32"/>
+<area shape="rect" id="node4" href="$group__bc__irq.html#ga6bd1e6c1589c97558d14e8f3d648e656" title="Enable interrupt requests globally (call can be nested) " alt="" coords="421,56,523,83"/>
+</map>

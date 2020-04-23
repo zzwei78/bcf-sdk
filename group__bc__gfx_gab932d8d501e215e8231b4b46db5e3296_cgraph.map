@@ -1,0 +1,5 @@
+<map id="bc_gfx_printf" name="bc_gfx_printf">
+<area shape="rect" id="node2" href="$group__bc__gfx.html#gae7c3bf028c5c951c5cc33bdfc3a31bd8" title="Display draw string. " alt="" coords="153,5,287,32"/>
+<area shape="rect" id="node3" href="$group__bc__gfx.html#gac1d38840dc5e40b3e74353d5ca16128e" title="Display draw char. " alt="" coords="336,5,464,32"/>
+<area shape="rect" id="node4" href="$group__bc__gfx.html#ga7bf38ffbe236eb485b6ac722697098fc" title="Draw pixel. " alt="" coords="512,5,643,32"/>
+</map>

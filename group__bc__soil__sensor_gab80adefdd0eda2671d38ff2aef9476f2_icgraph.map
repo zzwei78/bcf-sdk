@@ -1,0 +1,12 @@
+<map id="bc_soil_sensor_get_index_by_device_address" name="bc_soil_sensor_get_index_by_device_address">
+<area shape="rect" id="node2" href="$group__bc__soil__sensor.html#ga89019484931f9e7e04dccc4c911e5047" title="Set value for calibration point by device address. " alt="" coords="242,5,417,46"/>
+<area shape="rect" id="node3" href="$group__bc__soil__sensor.html#gaac49aa6cc9ec2806203b1767be049062" title="Save calibration points and label to eeprom by device address. " alt="" coords="232,71,427,97"/>
+<area shape="rect" id="node4" href="$group__bc__soil__sensor.html#gaa434d63f096589e5ddd1108b15123912" title="Get capacite as raw value. " alt="" coords="262,122,397,163"/>
+<area shape="rect" id="node5" href="$group__bc__soil__sensor.html#gae4c2350e17b442d0cf61c5218806d75e" title="Get device label by its device address. " alt="" coords="262,187,397,229"/>
+<area shape="rect" id="node6" href="$group__bc__soil__sensor.html#ga4d9e5c09435bd699af2bfe11f13ccfea" title="Get measured moisture in percent. " alt="" coords="262,253,397,294"/>
+<area shape="rect" id="node7" href="$group__bc__soil__sensor.html#ga7de2d587da7c5a8714cbe035f6cc04f1" title="Get measured temperature as raw value. " alt="" coords="262,318,397,359"/>
+<area shape="rect" id="node11" href="$group__bc__soil__sensor.html#gab49ecf6e98265022e4018ac96098eaf3" title="Get device label by its device address. " alt="" coords="262,383,397,425"/>
+<area shape="rect" id="node8" href="$group__bc__soil__sensor.html#ga6b292f6868f364e4b994778ded7e7a2e" title="Get measured temperature in degrees of Celsius. " alt="" coords="475,318,621,359"/>
+<area shape="rect" id="node9" href="$group__bc__soil__sensor.html#ga088122ee0e6c0cc74c39fe81c09b39ff" title="Get measured temperature in degrees of Fahrenheit. " alt="" coords="669,285,832,326"/>
+<area shape="rect" id="node10" href="$group__bc__soil__sensor.html#gaf1ab6647384397fd825b4f3c162d8ff2" title="Get measured temperature in kelvin. " alt="" coords="681,350,820,391"/>
+</map>

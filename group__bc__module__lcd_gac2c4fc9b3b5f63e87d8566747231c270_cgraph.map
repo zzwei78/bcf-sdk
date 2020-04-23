@@ -1,0 +1,3 @@
+<map id="bc_module_lcd_set_button_click_timeout" name="bc_module_lcd_set_button_click_timeout">
+<area shape="rect" id="node2" href="$group__bc__button.html#ga88fd3c911e2feb4f5ea8e1eb511ad8e5" title="Set click timeout (maximum interval within which button has to be released to recognize click event) ..." alt="" coords="232,5,371,46"/>
+</map>

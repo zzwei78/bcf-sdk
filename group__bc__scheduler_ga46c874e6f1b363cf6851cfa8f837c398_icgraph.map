@@ -1,0 +1,47 @@
+<map id="bc_scheduler_plan_now" name="bc_scheduler_plan_now">
+<area shape="rect" id="node2" href="$group__bc__analog__sensor.html#ga4b0f97f63489f37b8e685d22b1cec576" title="Start measurement manually. " alt="" coords="219,12,403,39"/>
+<area shape="rect" id="node4" href="$group__bc__button.html#ga1765fab7226084fdfa85dcc872f1467f" title="Set callback function. " alt="" coords="239,63,382,105"/>
+<area shape="rect" id="node7" href="$group__bc__cmwx1zzabz.html#gaf944df32b0a2cc2e540aea6f3a8915c6" title="Start LoRa OTAA join procedure. " alt="" coords="237,129,384,156"/>
+<area shape="rect" id="node8" href="$group__bc__cmwx1zzabz.html#gac312905f25fdbd1ec3f112d6a7a77c09" title="Send LoRa message. " alt="" coords="233,181,388,222"/>
+<area shape="rect" id="node9" href="$group__bc__cmwx1zzabz.html#ga8e8e6da9f12d630bf30ae4b06c05c628" title="Send LoRa confirmed message. " alt="" coords="233,246,388,287"/>
+<area shape="rect" id="node10" href="$group__bc__esp8266.html#gade47b3b61aa7d72aeef35c2300ff21a2" title="Check AP availability. " alt="" coords="233,311,388,353"/>
+<area shape="rect" id="node11" href="$group__bc__esp8266.html#ga6d6d2df02bed6e70262fb9a3adb7b16f" title="Enable ESP8266 and connect to WiFi. " alt="" coords="238,377,383,404"/>
+<area shape="rect" id="node12" href="$group__bc__esp8266.html#ga72c6cfe2ac2f62a58f720955978c6535" title="Send data. " alt="" coords="231,428,390,455"/>
+<area shape="rect" id="node13" href="$group__bc__flood__detector.html#ga174374b7fe179e6aaba9ef740834d7c2" title="Start measurement manually. " alt="" coords="219,479,402,505"/>
+<area shape="rect" id="node14" href="$group__bc__led.html#ga7f90962c4a6b8ba8819691cb8d104dad" title="LED blink. " alt="" coords="263,529,358,556"/>
+<area shape="rect" id="node15" href="$group__bc__led.html#ga6ffe61a0edb14fbf3847203068cf4715" title="Set LED mode. " alt="" coords="249,580,373,607"/>
+<area shape="rect" id="node16" href="$group__bc__led.html#ga5599ece47811e27512bad8e7b1670818" title="Set custom blinking pattern. " alt="" coords="245,631,377,657"/>
+<area shape="rect" id="node17" href="$group__bc__lis2dh12.html#ga721fc8589082e481f2da64a113a85dcf" title="Start measurement manually. " alt="" coords="237,681,385,708"/>
+<area shape="rect" id="node20" href="$group__bc__lis2dh12.html#ga333c8bb1ffcb40575be66f30c7b4667f" title="Set resolution. " alt="" coords="221,732,400,759"/>
+<area shape="rect" id="node21" href="$group__bc__lis2dh12.html#gacace3ce8a20ab719d375ecd1375de3ef" title="Set scale. " alt="" coords="233,783,388,809"/>
+<area shape="rect" id="node22" href="$group__bc__lp8.html#ga1b3fc8217722df40006f4e7f3f23cd76" title="Start measurement manually. " alt="" coords="252,833,369,860"/>
+<area shape="rect" id="node28" href="$group__bc__module__battery.html#ga172e2a7285fc525904fa9c5a77121018" title="Start mesurement. " alt="" coords="216,884,405,911"/>
+<area shape="rect" id="node30" href="$group__bc__pyq1648.html#ga85f892884862b1ab2b090984da978f66" title="Set PYQ1648 sensitivity. " alt="" coords="219,935,402,961"/>
+<area shape="rect" id="node32" href="$group__bc__sam__m8q.html#ga831155ca85fcda6da4ba553809981024" title="Start navigation module. " alt="" coords="244,985,377,1012"/>
+<area shape="rect" id="node34" href="$group__bc__sam__m8q.html#ga1e253be0c115d1c419a8537bfbe09150" title="Stop navigation module. " alt="" coords="245,1036,377,1063"/>
+<area shape="rect" id="node36" href="$group__bc__soil__sensor.html#ga719985edb82b752444ff3548f75f84cc" title="Start measurement manually. " alt="" coords="227,1087,394,1113"/>
+<area shape="rect" id="node38" href="$group__bc__spirit.html#ga0a167c138bcc3986b3ce8da82571b497" title="Enter RX state. " alt="" coords="263,1137,359,1164"/>
+<area shape="rect" id="node39" href="$group__bc__spirit.html#gaa64956b3def9c1bf2c1bbcb02e34b9f6" title="Enter sleep state. " alt="" coords="253,1188,369,1215"/>
+<area shape="rect" id="node40" href="$group__bc__spirit.html#gae5b5df526c66cf6628d31005986e505f" title="Enter TX state. " alt="" coords="263,1239,359,1265"/>
+<area shape="rect" id="node41" href="$group__bc__sps30.html#ga81ff7b3038fbfbb2c3b1f98e44928f42" title="Start measurement manually. " alt="" coords="243,1289,378,1316"/>
+<area shape="rect" id="node42" href="$group__bc__td1207r.html#ga901747d090d799193a17dd46850c2d75" title="Send RF frame command. " alt="" coords="243,1341,379,1382"/>
+<area shape="rect" id="node44" href="$group__bc__usb__cdc.html#gaa7b41f830a663e6501c61cf1dc5aa39c" title="Write buffer to USB CDC (non&#45;blocking call) " alt="" coords="247,1407,374,1433"/>
+<area shape="rect" id="node45" href="$group__bc__zssc3123.html#ga8a93473db0bfbfe5942ae24ccaf01759" title="Start measurement manually. " alt="" coords="233,1457,389,1484"/>
+<area shape="rect" id="node3" href="$group__bc__analog__sensor.html#gacc77d116a804b40e75c061c6f98f3024" title="Set measurement interval. " alt="" coords="476,5,628,46"/>
+<area shape="rect" id="node5" href="$group__bc__module__encoder.html#ga6f67406dd1e0db504050b19437779001" title="Initialize Encoder Module. " alt="" coords="471,71,633,97"/>
+<area shape="rect" id="node6" href="$group__bc__module__lcd.html#gace11d3001ed1f4742e37197802632c4f" title="Lcd set event handler for buttons. " alt="" coords="465,122,639,163"/>
+<area shape="rect" id="node18" href="$group__bc__lis2dh12.html#gadbd2d03f7d812d178f3b7db2933ebc8c" title="Set measurement interval. " alt="" coords="471,611,633,653"/>
+<area shape="rect" id="node19" href="$group__bc__lis2dh12.html#gabdb52865d27aca4cd3f0ca31133f4187" title="Enable or disable accelerometer threshold alarm. " alt="" coords="475,677,629,704"/>
+<area shape="rect" id="node23" href="$group__bc__lp8.html#gae399e4f224010a0faf68c69d9298244e" title="Set measurement interval. " alt="" coords="462,728,642,755"/>
+<area shape="rect" id="node25" href="$group__bc__lp8.html#gabeaaa8371190e2a79f45bb58190e26d0" title="Request sensor calibration. " alt="" coords="489,779,615,805"/>
+<area shape="rect" id="node27" href="$group__bc__module__co2.html#ga0136bbb9d299c51432b9349fe0aeb760" title="Start measurement manually. " alt="" coords="467,829,637,856"/>
+<area shape="rect" id="node24" href="$group__bc__module__co2.html#ga9619f5f2db2d1463584a433c959694b1" title="Set measurement interval. " alt="" coords="699,717,883,758"/>
+<area shape="rect" id="node26" href="$group__bc__module__co2.html#ga3adeac50c588f805391ed238367ce136" title="Request sensor calibration. " alt="" coords="701,783,880,809"/>
+<area shape="rect" id="node29" href="$group__bc__module__battery.html#ga16a69bc3476362c1acc6b229f9beb966" title="Set update interval. " alt="" coords="473,881,631,922"/>
+<area shape="rect" id="node31" href="$group__bc__module__pir.html#gad9fd393ed55c7c813bd295b018fe5b8d" title="Set sensor sensitivity. " alt="" coords="453,947,651,973"/>
+<area shape="rect" id="node33" href="$group__bc__module__gps.html#ga2df31f7ed8f77169f4fe41cfd5119040" title="Start tracking. " alt="" coords="479,997,625,1024"/>
+<area shape="rect" id="node35" href="$group__bc__module__gps.html#ga0221757930cb34df2eee6c91908c293b" title="Stop tracking. " alt="" coords="479,1048,625,1075"/>
+<area shape="rect" id="node37" href="$group__bc__soil__sensor.html#ga1152069609969026de9d88b5982200dc" title="Set measurement interval. " alt="" coords="485,1099,619,1141"/>
+<area shape="rect" id="node43" href="$group__bc__module__sigfox.html#gaff30d9b95f4292f5bf26c0ba02f37160" title="Send RF frame command. " alt="" coords="471,1341,633,1382"/>
+<area shape="rect" id="node46" href="$group__bc__zssc3123.html#ga6953bc50d935c2bf8f1e35541c82e45d" title="Set scan interval. " alt="" coords="467,1450,637,1491"/>
+</map>

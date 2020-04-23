@@ -1,0 +1,8 @@
+<map id="bc_module_lcd_set_event_handler" name="bc_module_lcd_set_event_handler">
+<area shape="rect" id="node2" href="$group__bc__module__lcd.html#ga100589c2c223a21aa02fdfb175511170" title="Lcd get button driver. " alt="" coords="227,5,405,46"/>
+<area shape="rect" id="node3" href="$group__bc__button.html#ga845615b54d6fc596b9f02a9a5bbe0012" title="Initialize virtual button. " alt="" coords="243,71,389,97"/>
+<area shape="rect" id="node5" href="$group__bc__button.html#ga1765fab7226084fdfa85dcc872f1467f" title="Set callback function. " alt="" coords="245,122,387,163"/>
+<area shape="rect" id="node4" href="$group__bc__scheduler.html#gac6e2fa9155567fb1f32a8b8b563e2f30" title="Register task in scheduler. " alt="" coords="472,71,621,97"/>
+<area shape="rect" id="node6" href="$group__bc__scheduler.html#gade94244616617574eee859c0fb5df428" title="Schedule specified task to absolute tick. " alt="" coords="453,125,640,152"/>
+<area shape="rect" id="node7" href="$group__bc__scheduler.html#ga46c874e6f1b363cf6851cfa8f837c398" title="Schedule specified task for immediate execution. " alt="" coords="466,176,627,203"/>
+</map>

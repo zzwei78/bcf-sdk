@@ -1,0 +1,9 @@
+<map id="bc_module_rs485_set_baudrate" name="bc_module_rs485_set_baudrate">
+<area shape="rect" id="node2" href="$group__bc__sc16is740.html#ga83b0d7316a667551cb750c220142cf06" title="Set baudrate. " alt="" coords="203,31,387,57"/>
+<area shape="rect" id="node3" href="$group__bc__i2c.html#gaa1e6123c2b68672fb6c591d4c73d4e0d" title="Memory read 1 byte from I2C channel. " alt="" coords="437,5,603,32"/>
+<area shape="rect" id="node6" href="$group__bc__i2c.html#ga313a279d51a755361b0d57eea6bcc226" title="Memory write 1 byte to I2C channel. " alt="" coords="435,56,605,83"/>
+<area shape="rect" id="node4" href="$group__bc__i2c.html#gac2f33729bf9c4751342a88bb917ee9fc" title="Memory read from I2C channel. " alt="" coords="655,5,801,32"/>
+<area shape="rect" id="node5" href="$group__bc__ds28e17.html#ga159050bb4986621d5d289433c987b5c0" title="Memory read from I2C. " alt="" coords="852,5,1031,32"/>
+<area shape="rect" id="node7" href="$group__bc__i2c.html#ga09c340b2ac57f2c8ed358dab05cf9c0b" title="Memory write to I2C channel. " alt="" coords="653,56,803,83"/>
+<area shape="rect" id="node8" href="$group__bc__ds28e17.html#gae1baafe53feb279c3556a122782431ec" title="Memory write to I2C. " alt="" coords="851,56,1032,83"/>
+</map>

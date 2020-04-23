@@ -1,0 +1,8 @@
+<map id="bc_config_init" name="bc_config_init">
+<area shape="rect" id="node2" href="$group__bc__config.html#gabc2644b3fb4345a86e27d3c20204f531" title="Load EEPROM configuration. " alt="" coords="160,81,269,108"/>
+<area shape="rect" id="node6" href="$group__bc__config.html#ga1927683ea06efc48ea57a0ec5fbbc7ee" title="Reset EEPROM configuration to zeros or init_config. " alt="" coords="157,132,272,159"/>
+<area shape="rect" id="node7" href="$group__bc__config.html#ga23bb0271a67801caedcefce651d4e20e" title="Save configuration to EEPROM. " alt="" coords="158,31,271,57"/>
+<area shape="rect" id="node3" href="$group__bc__sha256.html#gaf422ca5684d1f44055b487eb3650fec9" title="Initialize SHA256 structure. " alt="" coords="331,5,440,32"/>
+<area shape="rect" id="node4" href="$group__bc__sha256.html#gadad642408753adeecb5c6049b359884b" title="Compute SHA256 from data. " alt="" coords="320,56,451,83"/>
+<area shape="rect" id="node5" href="$group__bc__sha256.html#gad7f6d00c9502593ce141189d14c8864f" title="Finalize SHA256 computation and read the final hash. " alt="" coords="327,107,443,133"/>
+</map>

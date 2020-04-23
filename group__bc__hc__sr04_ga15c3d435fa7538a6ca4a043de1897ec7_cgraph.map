@@ -1,0 +1,8 @@
+<map id="bc_hc_sr04_measure" name="bc_hc_sr04_measure">
+<area shape="rect" id="node2" href="$group__bc__scheduler.html#gac6e2fa9155567fb1f32a8b8b563e2f30" title="Register task in scheduler. " alt="" coords="200,5,349,32"/>
+<area shape="rect" id="node3" href="$group__bc__gpio.html#ga1a15056524308ed212dada9d80bbfd81" title="Set output state for GPIO channel. " alt="" coords="207,56,342,83"/>
+<area shape="rect" id="node4" href="$group__bc__timer.html#ga317db8385bf21fcfd02fea4ff9e0eedb" title="Start timer. " alt="" coords="222,107,327,133"/>
+<area shape="rect" id="node5" href="$group__bc__timer.html#gaa8f918df996e2fe8e204987c5fcc17db" title="Relative delay. " alt="" coords="219,157,330,184"/>
+<area shape="rect" id="node7" href="$group__bc__timer.html#ga9e03a542d4a1be5e551f7db010368192" title="Stop timer. " alt="" coords="223,208,327,235"/>
+<area shape="rect" id="node6" href="$group__bc__timer.html#ga65fa2d94790c292adfef2b870e72caa0" title="Get actual tick of timer. " alt="" coords="398,157,583,184"/>
+</map>

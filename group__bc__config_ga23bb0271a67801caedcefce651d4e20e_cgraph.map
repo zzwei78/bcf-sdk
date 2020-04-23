@@ -1,0 +1,5 @@
+<map id="bc_config_save" name="bc_config_save">
+<area shape="rect" id="node2" href="$group__bc__sha256.html#gaf422ca5684d1f44055b487eb3650fec9" title="Initialize SHA256 structure. " alt="" coords="179,5,288,32"/>
+<area shape="rect" id="node3" href="$group__bc__sha256.html#gadad642408753adeecb5c6049b359884b" title="Compute SHA256 from data. " alt="" coords="168,56,299,83"/>
+<area shape="rect" id="node4" href="$group__bc__sha256.html#gad7f6d00c9502593ce141189d14c8864f" title="Finalize SHA256 computation and read the final hash. " alt="" coords="175,107,291,133"/>
+</map>

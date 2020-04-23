@@ -1,0 +1,10 @@
+<map id="bc_module_lcd_t" name="bc_module_lcd_t">
+<area shape="rect" id="node2" href="$structbc__tca9534a__t.html" title="Pin state. " alt="" coords="5,277,112,304"/>
+<area shape="rect" id="node3" href="$structbc__gfx__t.html" title="Instance. " alt="" coords="136,277,208,304"/>
+<area shape="rect" id="node4" href="$structbc__font__t.html" title="bc_font_t" alt="" coords="47,187,123,213"/>
+<area shape="rect" id="node5" href="$structbc__font__char__t.html" title="bc_font_char_t" alt="" coords="31,96,139,123"/>
+<area shape="rect" id="node6" href="$structbc__font__image__t.html" title="bc_font_image_t" alt="" coords="26,5,144,32"/>
+<area shape="rect" id="node7" href="$structbc__gfx__driver__t.html" title="Display driver interface. " alt="" coords="237,187,347,213"/>
+<area shape="rect" id="node8" href="$structbc__gfx__caps__t.html" title="Display size. " alt="" coords="183,96,289,123"/>
+<area shape="rect" id="node9" href="$structbc__ls013b7dh03__t.html" title="Instance. " alt="" coords="233,277,359,304"/>
+</map>

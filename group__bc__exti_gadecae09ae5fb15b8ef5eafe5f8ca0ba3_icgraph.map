@@ -1,0 +1,5 @@
+<map id="bc_exti_unregister" name="bc_exti_unregister">
+<area shape="rect" id="node2" href="$group__bc__lis2dh12.html#gabdb52865d27aca4cd3f0ca31133f4187" title="Enable or disable accelerometer threshold alarm. " alt="" coords="192,5,347,32"/>
+<area shape="rect" id="node3" href="$group__bc__module__encoder.html#ga87a4e9832b7a4a2431e0aa6c6f1df27a" title="Deinitialize Encoder Module. " alt="" coords="181,56,357,83"/>
+<area shape="rect" id="node4" href="$group__bc__spirit.html#ga8b0acab78e46e0be268b9179cfe8236c" title="Deitialize. " alt="" coords="211,107,327,133"/>
+</map>

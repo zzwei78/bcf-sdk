@@ -1,0 +1,8 @@
+<map id="bc_module_climate_get_temperature_kelvin" name="bc_module_climate_get_temperature_kelvin">
+<area shape="rect" id="node2" href="$group__bc__tmp112.html#gac438ff1d6f87792dd5899b44cda3f8fa" title="Get measured temperature in kelvin. " alt="" coords="213,5,400,46"/>
+<area shape="rect" id="node5" href="$group__bc__sht30.html#ga905c60196587ff2506990bda8aa957f6" title="Get measured temperature in kelvin. " alt="" coords="219,70,395,111"/>
+<area shape="rect" id="node3" href="$group__bc__tmp112.html#ga9d591221cfb0cbb55e5104ffd20ff0ec" title="Get measured temperature in degrees of Celsius. " alt="" coords="448,5,635,46"/>
+<area shape="rect" id="node4" href="$group__bc__tmp112.html#ga93c96309f01b036202ba1694f545fd2f" title="Get measured temperature as raw value. " alt="" coords="683,12,898,39"/>
+<area shape="rect" id="node6" href="$group__bc__sht30.html#gac0e463883cd1914c87e003ee50245458" title="Get measured temperature in degrees of Celsius. " alt="" coords="453,70,629,111"/>
+<area shape="rect" id="node7" href="$group__bc__sht30.html#ga2cc5e3ffec206f1b84dc4d022ea3e89b" title="Get measured temperature as raw value. " alt="" coords="689,77,893,104"/>
+</map>

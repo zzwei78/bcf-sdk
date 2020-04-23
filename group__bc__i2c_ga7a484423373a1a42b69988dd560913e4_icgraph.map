@@ -1,0 +1,8 @@
+<map id="bc_i2c_memory_write_16b" name="bc_i2c_memory_write_16b">
+<area shape="rect" id="node2" href="$group__bc__tmp112.html#ga1b762397e6e999f56dd0e23c0af55669" title="Deinitialize TMP112. " alt="" coords="261,5,385,32"/>
+<area shape="rect" id="node3" href="$group__bc__zssc3123.html#gaac78e73c392e6cda16cf9b0c48ec9bda" title="Write to eeprom, work only with command mode. " alt="" coords="232,56,413,83"/>
+<area shape="rect" id="node4" href="$group__bc__zssc3123.html#gaf82220fd0b04c8751b9d6a22001db00c" title="Read from eeprm, work only with command mode. " alt="" coords="248,107,397,149"/>
+<area shape="rect" id="node5" href="$group__bc__zssc3123.html#gaeb81be86442c5327ab0fb55b8e062cfb" title="Ends Command Mode. " alt="" coords="247,173,399,200"/>
+<area shape="rect" id="node6" href="$group__bc__zssc3123.html#ga83d15c83bc8ce0bfb9c83593e0a0a164" title="Start Command Mode. " alt="" coords="244,224,401,251"/>
+<area shape="rect" id="node7" href="$group__bc__zssc3123.html#gaccddb077f7c1eedf8e452cdf53d337a4" title="Unlock eerpom, work only with command mode. " alt="" coords="251,275,395,317"/>
+</map>

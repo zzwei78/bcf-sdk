@@ -1,0 +1,12 @@
+<map id="bc_dma_channel_config" name="bc_dma_channel_config">
+<area shape="rect" id="node2" href="$group__bc__dac.html#ga951eac3c42196e9d99e12426eac243e3" title="Start asynchronous DAC channel operation. " alt="" coords="228,5,359,32"/>
+<area shape="rect" id="node3" href="$group__bc__spi.html#ga1b1ac7e6c4d8aafe0c5cdd72effcd95f" title="Execute async SPI transfer. " alt="" coords="217,56,370,83"/>
+<area shape="rect" id="node7" href="$group__bc__uart.html#gaec23440802e3ec4d409f9c28b041b3f2" title="Start async reading. " alt="" coords="224,129,363,170"/>
+<area shape="rect" id="node4" href="$group__bc__ls013b7dh03.html#ga4b58175d121103a06d625050ec3a5226" title="Lcd update, send data. " alt="" coords="419,45,581,72"/>
+<area shape="rect" id="node5" href="$group__bc__ls013b7dh03.html#ga83e30d359151dd006ac87892ac8a00c2" title="Get Lcd driver. " alt="" coords="635,38,776,79"/>
+<area shape="rect" id="node6" href="$group__bc__module__lcd.html#ga5c58b9b82d5dfd4ae3c263c223ed5181" title="Initialize lcd. " alt="" coords="829,45,963,72"/>
+<area shape="rect" id="node8" href="$group__bc__cmwx1zzabz.html#ga61913b870a64f579d2bf7d336c7a4e4a" title="Initialize CMWX1ZZABZ. " alt="" coords="428,96,572,123"/>
+<area shape="rect" id="node9" href="$group__bc__td1207r.html#ga1b5a8cc467f2285e7894a9397be094dc" title="Initialize TD1207R. " alt="" coords="445,147,555,173"/>
+<area shape="rect" id="node11" href="$group__bc__wssfm10r1at.html#ga59a1f344c6a04ca7feaed904f5e578aa" title="Initialize WSSFM10R1AT. " alt="" coords="429,197,571,224"/>
+<area shape="rect" id="node10" href="$group__bc__module__sigfox.html#ga85ecac7b2744ca0180323c5448eafe0d" title="Initialize HARDWARIO SigFox Module. " alt="" coords="630,172,781,199"/>
+</map>

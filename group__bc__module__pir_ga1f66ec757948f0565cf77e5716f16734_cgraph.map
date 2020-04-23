@@ -1,0 +1,5 @@
+<map id="bc_module_pir_init" name="bc_module_pir_init">
+<area shape="rect" id="node2" href="$group__bc__pyq1648.html#gae1b159c9580dff6af770755e53d4e56b" title="Initialize PYQ1648 driver. " alt="" coords="185,31,301,57"/>
+<area shape="rect" id="node3" href="$group__bc__scheduler.html#gac6e2fa9155567fb1f32a8b8b563e2f30" title="Register task in scheduler. " alt="" coords="349,5,499,32"/>
+<area shape="rect" id="node4" href="$group__bc__timer.html#ga878fa66377415b0e9436c54369637148" title="Initialize timer. " alt="" coords="376,56,472,83"/>
+</map>

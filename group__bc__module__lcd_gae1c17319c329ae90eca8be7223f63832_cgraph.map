@@ -1,0 +1,4 @@
+<map id="bc_module_lcd_draw_circle" name="bc_module_lcd_draw_circle">
+<area shape="rect" id="node2" href="$group__bc__gfx.html#ga5f4df250c5c3ca61142fffb1db00947b" title="Lcd draw circle, using Midpoint circle algorithm. " alt="" coords="198,12,333,39"/>
+<area shape="rect" id="node3" href="$group__bc__gfx.html#ga7bf38ffbe236eb485b6ac722697098fc" title="Draw pixel. " alt="" coords="381,12,512,39"/>
+</map>

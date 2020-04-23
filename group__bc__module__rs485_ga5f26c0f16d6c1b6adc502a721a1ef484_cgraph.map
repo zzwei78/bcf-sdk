@@ -1,0 +1,9 @@
+<map id="bc_module_rs485_write" name="bc_module_rs485_write">
+<area shape="rect" id="node2" href="$group__bc__sc16is740.html#ga003b5d1e65242e2b8211200738cdcdf9" title="Write. " alt="" coords="214,41,351,68"/>
+<area shape="rect" id="node3" href="$group__bc__sc16is740.html#ga91c7b92c1235493fd73db11782e05126" title="Get TX FIXO space available. " alt="" coords="400,5,576,46"/>
+<area shape="rect" id="node7" href="$group__bc__i2c.html#ga09c340b2ac57f2c8ed358dab05cf9c0b" title="Memory write to I2C channel. " alt="" coords="413,71,563,97"/>
+<area shape="rect" id="node4" href="$group__bc__i2c.html#gaa1e6123c2b68672fb6c591d4c73d4e0d" title="Memory read 1 byte from I2C channel. " alt="" coords="631,12,798,39"/>
+<area shape="rect" id="node5" href="$group__bc__i2c.html#gac2f33729bf9c4751342a88bb917ee9fc" title="Memory read from I2C channel. " alt="" coords="853,12,1000,39"/>
+<area shape="rect" id="node6" href="$group__bc__ds28e17.html#ga159050bb4986621d5d289433c987b5c0" title="Memory read from I2C. " alt="" coords="1048,12,1227,39"/>
+<area shape="rect" id="node8" href="$group__bc__ds28e17.html#gae1baafe53feb279c3556a122782431ec" title="Memory write to I2C. " alt="" coords="624,71,805,97"/>
+</map>

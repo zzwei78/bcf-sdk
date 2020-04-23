@@ -1,0 +1,9 @@
+<map id="bc_uart_write" name="bc_uart_write">
+<area shape="rect" id="node2" href="$group__bc__atci.html#gae7e4d261bd3eaf97acb0c61bec8809c6" title="Prinf message and add CR LF. " alt="" coords="171,31,271,57"/>
+<area shape="rect" id="node5" href="$group__bc__atci.html#gac951ec9f24a31cec89dd8cb284af4df3" title="Write ERROR. " alt="" coords="155,81,287,108"/>
+<area shape="rect" id="node6" href="$group__bc__atci.html#ga5105ea1fa30f4a2920a3d324e787b164" title="Write OK. " alt="" coords="161,132,281,159"/>
+<area shape="rect" id="node7" href="$group__bc__log.html#ga46f1c6b8c76704ca9caf36eb3d72d46e" title="Log DUMP message (annotated in log as &lt;X&gt;) " alt="" coords="172,183,271,209"/>
+<area shape="rect" id="node8" href="$group__bc__log.html#ga38402ab492b081202e989181f9242f34" title="Initialize logging facility. " alt="" coords="179,233,263,260"/>
+<area shape="rect" id="node3" href="$group__bc__atci.html#gaee3008914d2b1708e51f83329fa1671d" title="Helper for clac action. " alt="" coords="337,5,474,32"/>
+<area shape="rect" id="node4" href="$group__bc__atci.html#ga51d292a94a79a3a80c5e268b2be5a3d1" title="Helper for help action. " alt="" coords="337,56,474,83"/>
+</map>

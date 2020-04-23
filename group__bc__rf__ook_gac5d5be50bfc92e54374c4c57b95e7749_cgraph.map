@@ -1,0 +1,7 @@
+<map id="bc_rf_ook_init" name="bc_rf_ook_init">
+<area shape="rect" id="node2" href="$group__bc__gpio.html#ga06db16c5cd7f6ffff7e297970814221d" title="Initialize GPIO channel. " alt="" coords="185,56,276,83"/>
+<area shape="rect" id="node5" href="$group__bc__gpio.html#ga63a3ad86dfef88c7c940a2a34945d853" title="Set mode of operation for GPIO channel. " alt="" coords="165,5,296,32"/>
+<area shape="rect" id="node6" href="$group__bc__rf__ook.html#gadda54a800d660f2aff4ca7dffb7e8401" title="Configure OOK bitrate. " alt="" coords="157,107,304,133"/>
+<area shape="rect" id="node3" href="$group__bc__irq.html#ga83398e8b1c443f7bf1b1980959d3cc63" title="Disable interrupt requests globally (call can be nested) " alt="" coords="353,5,458,32"/>
+<area shape="rect" id="node4" href="$group__bc__irq.html#ga6bd1e6c1589c97558d14e8f3d648e656" title="Enable interrupt requests globally (call can be nested) " alt="" coords="354,56,457,83"/>
+</map>
